@@ -13,7 +13,7 @@ A example prototype (Homework_1.r) is provided to give you some examples of buil
 In your .r script, include adequate annotation (using "#") so that another student could run your R script as well as any outputs. 
 
 Example:
-'''
+```r
     #Inputting data using the concatenate, c() function
     x <- c(3,2,1,4)
     x
@@ -28,11 +28,11 @@ Example:
     #Using the build-in mean() function to calculate the average of x
     mean(x)
     # [1] 2.5
-'''
+```
 Any graphical outputs should be pasted in word and saved as either a .pdf or a docx. You should include the name of the file in your .r script 
 
 Example:
-'''
+```r    
     #Inputting data for x
     x <- c(3,2,1,4)
     x
@@ -44,6 +44,6 @@ Example:
     #Using the plot() function to create a line  plot of x and y
     plot(x,y)
     #Output saved as xy_plot.pdf
-'''
+```
 
 Email your .r script and .pdf or .docx of each graphic outputs to [Matt](mlundqu1@binghamton.edu) by 11:59 Monday 2/1 (**Tuesday section**) or Wednesday 2/3 (**Thursday section**).
