@@ -17,11 +17,11 @@ If you are new to GitHub, you should check out this [blog post by Lauren Orsini]
 
 To do this:
 
-1. Click on the folder you wish to download (e.g. Homework 1).
-2. On the top right corner you will see a button that reads, "Download ZIP." ![Download ZIP button]()
-3. Click on that button.
-4. Depending on your browser, it will either download automatically or you can choose where to download it on to your machine.
-5. If you are on Windows, unzip the downloaded .zip file; if you are on a Mac, the file should have been unzipped automatically. 
+1. Click on the folder that you are interested in (e.g. Homework_1).
+2. Click on the file you are interested in downloading (e.g. Homework_1.r)
+3. On the top right corner you will see a button that reads <code>Raw</code>.
+4. Right click on <code>Raw</code> and select "Save Linked File"
+5. Depending on your browser, it will either download automatically or you can choose where to download it on to your machine.
 6. You should now be able to read and edit the files.
 
 # Useful links:
