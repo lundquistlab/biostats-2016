@@ -2,7 +2,7 @@
 
 The goals of this assignment are to:
 
-1. Download your own copy of [R](https://www.r-project.org) (and optional a GUI like [RStudio](http://www.rstudio.com) and text editor like [Notepad++](https://notepad-plus-plus.org/))
+1. Download your own copy of [R](https://www.r-project.org) (and optionally a GUI like [RStudio](http://www.rstudio.com) and text editor like [Notepad++](https://notepad-plus-plus.org/))
 2. Load data into R
 3. Summarize that data using the built-in R functions.
 
