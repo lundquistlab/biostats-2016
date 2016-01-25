@@ -9,13 +9,13 @@
 #**Note: This is a skeleton script, much more detail is needed to get full 
 #credit for this assignment
 
-#Part one: Inputting data
 
 #**Note: Dr. Stein prefers to use "=" to assign variables, I prefer "<-". 
 #While these are both correct, it is easy to confuse "=" with "==" which denotes
 #equality. It is up to you to decide which you want to use.
 #Be consistent!
 
+#Part one: Inputting data
 
 iris  <- read.table("iris.txt")
 
@@ -90,10 +90,9 @@ variances
 sd_i <- sqrt(variances)
 sd_i
 
-#Does this work?
+#Does this work? Try to get this working...
 coefvar  <- sd_i/mean(i)
 coefvar
-
 
 #Scatter plots
 
@@ -111,8 +110,7 @@ plot(iris$Species,iris$Sepal.Length)
 library(lattice) 
 boxplot(iris)
 
-
-#Histograms:
+#Histograms
 op <- par(mfrow=c(2, 2)) 
 
 hist(iris$Sepal.Length,col='red') hist(iris$Sepal.Width,col='blue') 
