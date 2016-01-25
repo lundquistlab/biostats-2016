@@ -6,9 +6,9 @@ The goals of this assignment are for you to:
 2. Load data into R
 3. Summarize that data using the built-in R functions.
 
-A example prototype (Homework_1.r) is provided to give you some examples of build-in function in R to use to summarize your data
+A example prototype (Homework_1.r) is provided to give you some examples of build-in functions in R you can use to summarize your data
 
-**Your assignment** is to download R (and RStudio and/or Notepad++ if you want) as well as the data file **iris.txt**. Using Homework_1.r as a template, write a .r script to run the suite of summary and graphic display functions in R (see [Biostatistics 030](http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20pdf/030-2010%20Biostatistics.pdf))
+**Your assignment** is to download R (and RStudio and/or Notepad++ if you want) as well as the data file **iris.txt**. Using Homework_1.r as a template, write a .r script to run the suite of summary and graphic display functions in R from [Biostatistics 030](http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20pdf/030-2010%20Biostatistics.pdf)
 
 The information that you need about R and the functions in Homework_1.r are available in the Bio Toolbox:
 
@@ -20,7 +20,7 @@ The information that you need about R and the functions in Homework_1.r are avai
 
 **It is imperative to read Getting Started with R for this assignment**
 
-In your .r script, include adequate annotation (using "#") so that another student could run your R script as well as any outputs. 
+In your .r script, include adequate annotation (using "#") so that another student could run your R script. Also include all outputs from the R console in your script. 
 
 Example:
 ```r
@@ -39,7 +39,7 @@ Example:
     mean(x)
     # [1] 2.5
 ```
-Any graphical outputs should be pasted in word and saved as either a .pdf or a docx. You should include the name of the file in your .r script 
+Any graphical outputs should be pasted in word and saved as either a .pdf or a .docx. You should include the name of the file in your .r script 
 
 Example:
 ```r    
@@ -56,6 +56,7 @@ Example:
     #Output saved as xy_plot.pdf
 ```
 Scores will be based on:
+
 1. Readability (25 pts)
 2. Completeness (25 pts)
 3. Adequate Detail (25 pts)
