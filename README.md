@@ -4,7 +4,7 @@ This is the GitHub repository (repo) for Spg 2016 Biol 483N/597
 
 Instructor: William Stein S3-G45
 
-TA: Matthew Lundquist S3-357
+TA: Matthew Lundquist S3-359
 
 This repo will have:
 
