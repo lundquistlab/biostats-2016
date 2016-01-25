@@ -2,7 +2,7 @@
 
 The goals of this assignment are for you to:
 
-1. Download your own copy of [R](https://www.r-project.org) (and optionally a GUI like [RStudio](http://www.rstudio.com) and text editor like [Notepad++](https://notepad-plus-plus.org/))
+1. Download your own copy of [R](https://www.r-project.org) and [RStudio](http://www.rstudio.com) (optionally a text editor like [Notepad++](https://notepad-plus-plus.org/))
 2. Load data into R
 3. Summarize that data using the built-in R functions.
 
@@ -57,11 +57,11 @@ Example:
 ```
 Scores will be based on:
 
-1. Readability (25 pts)
-2. Completeness (25 pts)
-3. Adequate Detail (25 pts)
-4. Repeatability (25 pts)
+1. Readability
+2. Completeness
+3. Adequate Detail
+4. Repeatability
 
-**Total points: 100**
+**Total points: 5**
 
 Email your .r script and .pdf or .docx of each graphical output to [Matt](mailto:mlundqu1@binghamton.edu?subject=Homework 1 Submission) by 11:59 Monday 2/1 (**Tuesday section**) or Wednesday 2/3 (**Thursday section**).
