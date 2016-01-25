@@ -1,1 +1,1 @@
-#The first homework [more to come]
+#The first homework
