@@ -64,6 +64,6 @@ Scores will be based on:
 3. Adequate Detail
 4. Repeatability
 
-**Total points: 5**
+**Total points: 10**
 
 Email your .r script and .pdf or .docx of each graphical output to [Matt](mailto:mlundqu1@binghamton.edu?subject=Homework 1 Submission) by 11:59 Monday 2/1 (**Tuesday section**) or Wednesday 2/3 (**Thursday section**).
