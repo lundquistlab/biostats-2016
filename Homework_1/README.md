@@ -16,11 +16,9 @@ The information that you need about R and the functions in Homework_1.r are avai
 
 [Using RStudio](http://biotoolbox.binghamton.edu/Preliminaries/RSTUDIO%20SUMMARY.pdf) (may be a little out of date)
 
-Zar chapters 1-4
+Zar chapters 1 - 4
 
-And the great and powerful
-
-[Google](http://www.google.com)
+And the great and powerful [Google](http://www.google.com)
 
 **It is imperative to read Getting Started with R for this assignment**
 
