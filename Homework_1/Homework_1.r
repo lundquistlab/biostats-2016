@@ -16,9 +16,68 @@
 #equality. It is up to you to decide which you want to use.
 #Be consistent!
 
+
 iris  <- read.table("iris.txt")
 
 #Part two: Descriptive statistics
+
+2 + 2
+35/5
+6*5
+pi
+
+var <-  78
+var2 <- 6*(7/9)
+var3 <- (5+3)/(sqrt(pi))
+
+SL <- iris[,1]
+SL <- iris$Sepal.Length
+
+SW <- iris$Sepal.Width
+PL <- iris$Petal.Length
+PW <- iris$Petal.Width
+
+species <- iris[,5]
+
+out <- cbind(SL,SW,PL,PW,species)
+out
+
+length(SL)
+length(iris$Sepal.Width)
+length(iris[,3])
+length(PW)
+
+n <- length(SL)
+n
+
+SL[2]
+SL[3]
+iris[3,1]
+
+xbar <- (1/n)*sum(SL)
+xbar
+mean(SL)
+
+median(SL)
+
+geom_meanSL <- prod(SL)^(1/length(SL))
+geom_meanSL
+
+harm_meanSL <- n/sum(1/SL)
+harm_meanSL
+
+var(SL)
+sample_varSL <- ((n-1)/n)/var(SL)
+sample_varSL
+
+b1 <- 32
+c1 <- 1.8
+
+SLt  <- c1*SL+b1
+mean(SLt)
+var(SLt)
+
+#Part three: Summary statistics and graphics
 
 summary(iris)
 
