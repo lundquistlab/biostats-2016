@@ -1,6 +1,6 @@
 #Started by Matthew Lundquist
 #1/24/2016
-#Based on Biostatistics 030 by William Stein
+#Based on Biostatistics 020 and 030 by William Stein
 
 #This is the first homework assignment for Biol 483N/597
 
