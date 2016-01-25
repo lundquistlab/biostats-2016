@@ -8,7 +8,17 @@ The goals of this assignment are to:
 
 A example prototype (Homework_1.r) is provided to give you some examples of build-in function in R to use to summarize your data
 
-**Your assignment** is to download R (and RStudio and/or Notepad++ if you want) as well as the data file iris.txt. Using Homework_1.r as a template, write a .r script to run the suite of summary and graphic display functions in R (see [Biostatistics 030](http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20pdf/030-2010%20Biostatistics.pdf) for examples)
+**Your assignment** is to download R (and RStudio and/or Notepad++ if you want) as well as the data file iris.txt. Using Homework_1.r as a template, write a .r script to run the suite of summary and graphic display functions in R (see [Biostatistics 030](http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20pdf/030-2010%20Biostatistics.pdf))
+
+The information that you need about R and the functions in Homework_1.r are available in the Bio Toolbox:
+
+[Getting Started with R](http://biotoolbox.binghamton.edu/Preliminaries/Getting%20Started%20with%20R.pdf)
+
+[Using RStudio](http://biotoolbox.binghamton.edu/Preliminaries/RSTUDIO%20SUMMARY.pdf) (may be a little out of date)
+
+[Google](www.google.com)
+
+**It is imperative to read Getting Started with R for this assignment**
 
 In your .r script, include adequate annotation (using "#") so that another student could run your R script as well as any outputs. 
 
@@ -45,5 +55,11 @@ Example:
     plot(x,y)
     #Output saved as xy_plot.pdf
 ```
+Scores will be based on:
+1. Readability (25 pts)
+2. Completeness (25 pts)
+3. Adequate Detail (25 pts)
+4. Repeatability (25 pts)
+**Total points: 100**
 
-Email your .r script and .pdf or .docx of each graphic outputs to mlundqu1@binghamton.edu by 11:59 Monday 2/1 (**Tuesday section**) or Wednesday 2/3 (**Thursday section**).
+Email your .r script and .pdf or .docx of each graphical output to mlundqu1@binghamton.edu by 11:59 Monday 2/1 (**Tuesday section**) or Wednesday 2/3 (**Thursday section**).

@@ -2,11 +2,12 @@
 #1/24/2016
 #Based on Biostatistics 030 by William Stein
 
-#This is the first homework assignment for Biol 
+#This is the first homework assignment for Biol 483N/597
+
+#Due by 11:59 PM 2/1/2016 (Tuesday section) or 2/3/2016 (Thursday section)
 
 #**Note: This is a skeleton script, much more detail is needed to get full 
 #credit for this assignment
-
 
 #Part one: Inputting data
 
