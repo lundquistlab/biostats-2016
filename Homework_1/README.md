@@ -61,6 +61,7 @@ Scores will be based on:
 2. Completeness (25 pts)
 3. Adequate Detail (25 pts)
 4. Repeatability (25 pts)
+
 **Total points: 100**
 
 Email your .r script and .pdf or .docx of each graphical output to mlundqu1@binghamton.edu by 11:59 Monday 2/1 (**Tuesday section**) or Wednesday 2/3 (**Thursday section**).
