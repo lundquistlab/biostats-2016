@@ -17,12 +17,12 @@ If you are new to GitHub, you should check out this [blog post by Lauren Orsini]
 
 To do this:
 
-1. Click on the folder that you are interested in (e.g. [Homework_1](https://github.com/mlundquist/Biostats-2016/tree/master/Homework_1)).
+1. Click on the folder that contains the file you are interested in (e.g. [Homework_1](https://github.com/mlundquist/Biostats-2016/tree/master/Homework_1)).
 2. Click on the file you are interested in downloading (e.g. [Homework_1.r](https://github.com/mlundquist/Biostats-2016/tree/master/Homework_1/Homework_1.r))
 3. On the top right corner you will see a button that reads <code>Raw</code>.
 4. Right click on <code>Raw</code> and select "Save Linked File"
 5. Depending on your browser, it will either download automatically or you can choose where to download it on to your machine.
-6. You should now be able to read and edit the files.
+6. You should now be able to read and edit the file.
 
 # Useful links:
 
