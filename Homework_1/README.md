@@ -8,7 +8,7 @@ The goals of this assignment are to:
 
 A example prototype (Homework_1.r) is provided to give you some examples of build-in function in R to use to summarize your data
 
-**Your assignment** is to download R (and RStudio and/or Notepad++ if you want) as well as the data file iris.txt. Using Homework_1.r as a template, write a .r script to run the suite of summary and graphic display functions in R (see [Biostatistics 030](http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20pdf/030-2010%20Biostatistics.pdf))
+**Your assignment** is to download R (and RStudio and/or Notepad++ if you want) as well as the data file **iris.txt**. Using Homework_1.r as a template, write a .r script to run the suite of summary and graphic display functions in R (see [Biostatistics 030](http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20pdf/030-2010%20Biostatistics.pdf))
 
 The information that you need about R and the functions in Homework_1.r are available in the Bio Toolbox:
 
