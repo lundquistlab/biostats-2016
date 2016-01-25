@@ -1,6 +1,6 @@
 #Homework 1: Due 2/1/16 or 2/3/16
 
-The goals of this assignment are to:
+The goals of this assignment are for you to:
 
 1. Download your own copy of [R](https://www.r-project.org) (and optionally a GUI like [RStudio](http://www.rstudio.com) and text editor like [Notepad++](https://notepad-plus-plus.org/))
 2. Load data into R
