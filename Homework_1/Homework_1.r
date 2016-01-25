@@ -9,7 +9,6 @@
 #**Note: This is a skeleton script, much more detail is needed to get full 
 #credit for this assignment
 
-
 #**Note: Dr. Stein prefers to use "=" to assign variables, I prefer "<-". 
 #While these are both correct, it is easy to confuse "=" with "==" which denotes
 #equality. It is up to you to decide which you want to use.
