@@ -14,7 +14,7 @@ The information that you need about R and the functions in Homework_1.r are avai
 
 [Getting Started with R](http://biotoolbox.binghamton.edu/Preliminaries/Getting%20Started%20with%20R.pdf)
 
-[Using RStudio](http://biotoolbox.binghamton.edu/Preliminaries/RSTUDIO%20SUMMARY.pdf) (may be a little out of date)
+[Using RStudio](http://biotoolbox.binghamton.edu/Preliminaries/RSTUDIO%20SUMMARY.pdf)
 
 Zar chapters 1 - 4
 
