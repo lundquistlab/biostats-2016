@@ -46,4 +46,4 @@ Example:
     #Output saved as xy_plot.pdf
 ```
 
-Email your .r script and .pdf or .docx of each graphic outputs to [Matt](mlundqu1@binghamton.edu) by 11:59 Monday 2/1 (**Tuesday section**) or Wednesday 2/3 (**Thursday section**).
+Email your .r script and .pdf or .docx of each graphic outputs to mlundqu1@binghamton.edu by 11:59 Monday 2/1 (**Tuesday section**) or Wednesday 2/3 (**Thursday section**).
