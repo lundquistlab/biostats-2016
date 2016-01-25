@@ -32,7 +32,7 @@ Example:
     n <- length(x)
     n
     # [1] 4
-    #Calculating mean manually using sum() function
+    #Calculating the mean of x manually by adding up the values of x using the sum() function
     sum(x)/n
     # [1] 2.5
     #Using the build-in mean() function to calculate the average of x
