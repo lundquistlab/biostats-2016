@@ -89,8 +89,7 @@ variances
 sd_i <- sqrt(variances)
 sd_i
 
-#Does this work? Try to get this working...
-coefvar  <- sd_i/mean(i)
+coefvar  <- sd_i/colMeans(i)
 coefvar
 
 #Scatter plots
