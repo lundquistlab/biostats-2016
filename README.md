@@ -1,6 +1,6 @@
 # Biostatistics with R 
 
-##(short URL: http://bit.ly/1K8XGkn)
+(short URL: http://bit.ly/biostats16)
 
 This is the GitHub repository (repo) for Spg 2016 Biol 483N/597
 
