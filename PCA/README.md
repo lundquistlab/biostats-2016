@@ -7,4 +7,4 @@ Included:
 1. An annotated prototype, PCA_biostats.r
 2. Data file, T8-5.DAT
 
-Note: a .DAT file is treated in R much like a .txt file.
+Note: A .DAT file is treated in R much like a .txt file.
