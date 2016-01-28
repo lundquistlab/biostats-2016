@@ -1,5 +1,4 @@
 #!/bin/sh
-
 cd ~/Github/Biostats-HW
 git init
 git add *
