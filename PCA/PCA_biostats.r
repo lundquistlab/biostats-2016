@@ -23,7 +23,7 @@ biplot(pcs, choices = c(1,3), cex = 0.5) #looking at principal components 1 and 
 #screeplot
 plot(pcs)
 
-#PCA sing correlation matrix
+#PCA using correlation matrix
 
 #You generally use this if the original variables have different scales
 pcs_2 <- prcomp(m, scale = TRUE) #scale = TRUE scales the original variables so they are comparable.
