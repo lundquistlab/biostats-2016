@@ -27,7 +27,7 @@ In Biol 375, Dr. Giardina is having his students test the effects of different l
 
 #Study 3
 
-Dr. Zhu wants to study the effect of salt additions on denitrification in forest soils in the Nature Preserve. He has a 5 ha area he wants to study. He wants to add water containing 0 mg/l NaCl, 1000 mg mg/l NaCL, 10,000 mg/l NaCl, and 50,000 mg/l NaCl.
+Dr. Zhu wants to study the effect of salt additions on denitrification in forest soils in the Nature Preserve. He has a 5 ha area he wants to study. He wants to add water containing 0 mg/l NaCl, 1000 mg mg/l NaCL, 10,000 mg/l NaCl, and 50,000 mg/l NaCl to the soil.
 
 #Study 4
 
