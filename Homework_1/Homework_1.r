@@ -66,7 +66,7 @@ harm_meanSL <- n/sum(1/SL)
 harm_meanSL
 
 var(SL)
-sample_varSL <- ((n-1)/n)/var(SL)
+sample_varSL <- ((n-1)/n)*var(SL)
 sample_varSL
 
 b1 <- 32
