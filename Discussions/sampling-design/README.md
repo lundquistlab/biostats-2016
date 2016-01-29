@@ -1,4 +1,4 @@
-In biostats 040 we have a list of general strategies for sampling from a population
+In *Biostatistics 040* we have a list of general strategies for sampling from a population
 
 1. Random Selection
 
