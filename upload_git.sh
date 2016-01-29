@@ -1,5 +1,5 @@
 #!/bin/sh
-cd ~/Github/Biostats-HW
+cd ~/Github/biostats2016
 git init
 git add *
 git commit -m "update" #Not particularly informative
