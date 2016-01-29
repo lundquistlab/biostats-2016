@@ -12,10 +12,9 @@ In biostats 040 we have a list of general strategies for sampling from a populat
 
 6. Blind Design
 
----
-
-#Here are some studies that could use one or more of these sampling strategies.
+Here are some studies that could use one or more of these sampling strategies.
     
+
 **Your goal will be to  discuss as a group what strategy should be used in each study and give justififcation for your decision**
 
 ---
