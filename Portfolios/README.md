@@ -15,13 +15,14 @@ In each individual folder, I include everything I need to run the tests (a .r sc
     - Your portfolio organized in such a way that anyone could find a particular test easily.
     - File and folder names descriptive (i.e. "1_DiscriptiveStats", **not** "Folder1" or "stat1.r").
 2. Completeness
-    - All statistical tests covered in lecture (see [BAT](http://biotoolbox.binghamton.edu) are prototyped.
+    - All statistical tests covered in lecture (see [BAT](http://biotoolbox.binghamton.edu)) are prototyped.
     - All folders contain at least an .r script and a .pdf of outputs and explanations 
 3. Accuracy
     - Your .r scripts work the way that you intend without any errors
     - Your annotations and explanations in your .pdf are factually correct
-
-4. ...
+4. Spelling and Format
+    - Format is consistent throughout
+    - No spelling or grammatical errors
 
 
 
