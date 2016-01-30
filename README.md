@@ -1,3 +1,5 @@
+#NOTICE A SLIGHT CHANGE OF DIRECTORY LAYOUT, HOMEWORK-1 IS WITHIN THE HOMEWORK DIRECTORY 
+
 # Biostatistics with R 
 
 (short URL: [bit.ly/biostats16](http://bit.ly/biostats16))
