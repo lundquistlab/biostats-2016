@@ -10,8 +10,8 @@ m
 
 ?prcomp #Run this if you want to learn more about the percomp() function
 pcs <- prcomp(m, retex=TRUE, center = TRUE, scale = FALSE) #scale = FALSE makes sure that the original variables keep their individual scales
-pcs
-pcs$x
+pcs #loadings
+pcs$x #projection
 pcs$center
 pcs$scale
 
