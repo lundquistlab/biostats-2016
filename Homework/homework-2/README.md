@@ -6,7 +6,7 @@ Explore Bayesian analysis and **answer this example question**.
 
 A student at Binghamton University is interested in knowing how likely it is to pass the final for Biol 117. Specifically, he is interested in if he should spend time studying for that test because he has three others.  
 
-Suppose you know that generally, 70% of the students pass the test. You also know that 80% of those who pass studied at least 8 hours for the test. However, 20% of those who do study do not pass.
+Suppose you know that generally, 70% of the students pass the test. You also know that 80% of those who pass studied for the test. However, you also know that 20% of those who do study still do do not pass.
 
 
 1. What is the probability that he will pass if he studies?
