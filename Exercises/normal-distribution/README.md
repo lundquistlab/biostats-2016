@@ -9,17 +9,13 @@ In R, the function to calculate the normal distribution is <code> dnorm() </code
     ?dnorm
 </code>
 
-I**The Normal Distribution**
+**The Normal Distribution**
 
 Description:
-
-<code>
 
     Density, distribution function, quantile function and random
     generation for the normal distribution with mean equal to ‘mean’
     and standard deviation equal to ‘sd’.
-
-</code>
 
 Usage:
 
@@ -30,7 +26,6 @@ Usage:
 
 Arguments:
 
-<code>
     x, q: vector of quantiles.
 
     p: vector of probabilities.
@@ -47,7 +42,6 @@ Arguments:
     lower.tail: logical; if TRUE (default), probabilities are P[X <= x]
             otherwise, P[X > x].
 
-</code>
 
 The normal distribution has been prototyped in [Biostatistics 080] (http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20MAIN/080-2010%20Biostatistics%2008%20MAIN.htm).
 
