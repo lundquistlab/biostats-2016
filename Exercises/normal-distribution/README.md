@@ -7,41 +7,47 @@ In R, the function to calculate the normal distribution is <code> dnorm() </code
 
 <code>
 ?dnorm
+</code>
 
 The Normal Distribution
-
 Description:
 
-     Density, distribution function, quantile function and random
-     generation for the normal distribution with mean equal to ‘mean’
-     and standard deviation equal to ‘sd’.
+<code>
+
+Density, distribution function, quantile function and random
+generation for the normal distribution with mean equal to ‘mean’
+and standard deviation equal to ‘sd’.
+
+<\code>
 
 Usage:
+<code>
 
-     dnorm(x, mean = 0, sd = 1, log = FALSE)
-     pnorm(q, mean = 0, sd = 1, lower.tail = TRUE, log.p = FALSE)
-     qnorm(p, mean = 0, sd = 1, lower.tail = TRUE, log.p = FALSE)
-     rnorm(n, mean = 0, sd = 1)
+dnorm(x, mean = 0, sd = 1, log = FALSE)
+pnorm(q, mean = 0, sd = 1, lower.tail = TRUE, log.p = FALSE)
+qnorm(p, mean = 0, sd = 1, lower.tail = TRUE, log.p = FALSE)
+rnorm(n, mean = 0, sd = 1)
+
+<\code>
 
 Arguments:
 
-    x, q: vector of quantiles.
+<code>
+x, q: vector of quantiles.
 
-       p: vector of probabilities.
+p: vector of probabilities.
 
-       n: number of observations. If ‘length(n) > 1’, the length is
-          taken to be the number required.
+n: number of observations. If ‘length(n) > 1’, the length is
+   taken to be the number required.
 
-    mean: vector of means.
+mean: vector of means.
 
-      sd: vector of standard deviations.
+sd: vector of standard deviations.
 
 log, log.p: logical; if TRUE, probabilities p are given as log(p).
 
 lower.tail: logical; if TRUE (default), probabilities are P[X <= x]
-          otherwise, P[X > x].
-
-
+            otherwise, P[X > x].
 
 </code>
 
@@ -63,6 +69,8 @@ A CI for a sample mean of X is the estimated range over which repeated samples o
 
 To calculate CI's, you can use the <code> rnorm() </code> and <code> qnorm() </code> functions in R.
 
+This is prototyped in [Biostatistics 100](http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20pdf/100-2010%20Biostatistics.pdf))
+
 #Assignment:
 
 You are interested in analyzing the <code> iris </code> data. However, you know that is it important to assess the normality of that data.
@@ -76,6 +84,6 @@ You are interested in analyzing the <code> iris </code> data. However, you know 
 
 2. Assess the normality of the four variables in <code> iris </code> using a q-q plot. Are they normally distributed?
 
-3. Calculate the CI's for the four variables in <code> iris <\code> using R.
+3. Calculate the CI's for the four variables in <code> iris </code> using R.
 
 
