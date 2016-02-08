@@ -31,7 +31,7 @@ Arguments:
     p: vector of probabilities.
 
     n: number of observations. If ‘length(n) > 1’, the length is
-   taken to be the number required.
+    taken to be the number required.
 
     mean: vector of means.
 
@@ -45,7 +45,7 @@ Arguments:
 
 The normal distribution has been prototyped in [Biostatistics 080] (http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20MAIN/080-2010%20Biostatistics%2008%20MAIN.htm).
 
-You can use the <code> dnorm() </code> function and its derivatives to calculate P(X) and  &phi;(X). You can also do this after calculating a Z score and using a print statistical table (e.g. Zar Appendix Table B.2)
+You can use the <code> dnorm() </code> function and its derivatives to calculate P(X) and  &phi;(X). You can also do this after calculating a Z score and using a printed statistical table (e.g. Zar Appendix Table B.2)
 
 #Assessing normality
 
@@ -57,11 +57,11 @@ Q-Q plotting is a function built into the <code> "lattice" </code> package. To i
 
 #Calculating confidence intervals (CI)
 
-A CI for a sample mean of X is the estimated range over which repeated samples of x&#772; are expected to fall (1-%alpha;) x 100%.
+A CI for a sample mean of X is the estimated range over which repeated samples of x&#772; are expected to fall (1-&alpha;) * 100%.
 
 To calculate CI's, you can use the <code> rnorm() </code> and <code> qnorm() </code> functions in R.
 
-This is prototyped in [Biostatistics 100](http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20pdf/100-2010%20Biostatistics.pdf))
+This is prototyped in [Biostatistics 100](http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20pdf/100-2010%20Biostatistics.pdf).
 
 #Assignment:
 
@@ -74,7 +74,7 @@ You are interested in analyzing the <code> iris </code> data. However, you know 
     3. Probability that X ranges between 4 and 4.9
 
 
-2. Assess the normality of the four variables in <code> iris </code> using a q-q plot. Are they normally distributed?
+2. Assess the normality of the four variables in <code> iris </code> using a Q-Q plot. Are they normally distributed?
 
 3. Calculate the CI's for the four variables in <code> iris </code> using R.
 
