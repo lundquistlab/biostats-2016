@@ -69,6 +69,8 @@ You are interested in analyzing the <code> iris </code> data. However, you know 
 
 1. Calculate P(X), &phi;(X) and MAX and MIN cut-off of the four variables for each species for the following ranges. **Use both the Zur textbook and the R functions**.
 
+For example (using sepal length):
+
     1. Probability that X ranges between 4.5 and 5.5
     2. Probability that X ranges between 6 and 7
     3. Probability that X ranges between 4 and 4.9
