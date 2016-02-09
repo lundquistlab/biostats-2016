@@ -30,7 +30,7 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 .
 +-- Parametric variance tests
 |	+-- One sample t-test
-|	+-- One sample &chi;<sup>2</sup>
+|	+-- One sample chi-squared
 |	+-- Paired t-test
 |	+-- Two sample t-test
 +-- Non-parametric variance tests
@@ -53,7 +53,7 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 |	+-- Choosing optimal model
 +-- Analysis of covariance
 +-- Goodness of fit tests
-|	+-- &chi;<sup>2</sup> test
+|	+-- chi-squared goodness of fit test
 |	+-- G-test 
 |	+-- Kolomogorov-Smirnov test
 +-- Contingency tests
