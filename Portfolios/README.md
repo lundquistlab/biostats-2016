@@ -53,7 +53,7 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 |	+-- Choosing optimal model
 +-- Analysis of covariance
 +-- Goodness of fit tests
-|	+-- chi-squared goodness of fit test
+|	+-- Chi-squared goodness of fit test
 |	+-- G-test 
 |	+-- Kolomogorov-Smirnov test
 +-- Contingency tests
