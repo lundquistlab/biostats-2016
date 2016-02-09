@@ -26,6 +26,7 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 
 
 #Required statistical tests covered in your portfolio
+````
 .
 +-- Parametric variance tests
 |	+-- One sample t-test
@@ -58,4 +59,4 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 +-- Contingency tests
 |	+-- Fisher's exact test
 |	+-- McNamar's test
-
+````
