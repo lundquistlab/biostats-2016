@@ -25,7 +25,7 @@ In each individual folder, I include everything I need to run the tests (a .r sc
     - No spelling or grammatical errors
 
 
-#Required statistical tests covered in your portfolio
+**Required statistical tests covered in your portfolio:**
 ````
 .
 +-- Parametric variance tests
