@@ -25,7 +25,37 @@ In each individual folder, I include everything I need to run the tests (a .r sc
     - No spelling or grammatical errors
 
 
-
-
-
+#Required statistical tests covered in your portfolio
+.
++-- Parametric variance tests
+|	+-- One sample t-test
+|	+-- One sample &chi;<sup>2</sup>
+|	+-- Paired t-test
+|	+-- Two sample t-test
++-- Non-parametric variance tests
+|	+-- Sign test
+|	+-- Wilcoxon Signed-Rank test
+|	+-- Wilcoxon Rank-Sum test
+|	+-- Mann-Whitney test
++-- Parametric analysis of variance
+|	+-- One-way ANOVA
+|	+-- Two-way ANOVA
+|	+-- Nested two-way ANOVA
++-- Non-parametric analysis of variance
+|	+-- Kruskal-Wallis test
+|	+-- Friedman two-way ANOVA by ranks
+|	+-- Cochran's Q test
++-- Linear regression
+|	+-- Simple linear regression
+|	+-- Multiple regression
+|	+-- General linear models
+|	+-- Choosing optimal model
++-- Analysis of covariance
++-- Goodness of fit tests
+|	+-- &chi;<sup>2</sup> test
+|	+-- G-test 
+|	+-- Kolomogorov-Smirnov test
++-- Contingency tests
+|	+-- Fisher's exact test
+|	+-- McNamar's test
 
