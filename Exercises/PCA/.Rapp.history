@@ -1,0 +1,812 @@
+chemistry <- read.csv("Data/2014_data.csv", h=T)
+LS <- subset(chemistry, stream == "LS")
+12/20
+plot(meter$per_m ~ meter$flow)
+meter <- read.csv("Data/data_2014.csv", h=T)
+meter <- read.csv("Data/2014_data.csv", h=T)
+read.csv
+taxa <- read.csv("Data/genera.csv", h=T)
+source("/var/folders/rr/94fnns113kl2d0rj01qwlygr0000gn/T//RtmpBayWBt/file31881c034c")#
+unlink("/var/folders/rr/94fnns113kl2d0rj01qwlygr0000gn/T//RtmpBayWBt/file31881c034c")
+taxa <- read.csv("Data/genera.csv", h=T)
+long_data <- read.csv("Coxreg.csv", head=T)
+getwd()
+source("/var/folders/rr/94fnns113kl2d0rj01qwlygr0000gn/T//RtmpgVqFP5/file3e54129b02b")#
+unlink("/var/folders/rr/94fnns113kl2d0rj01qwlygr0000gn/T//RtmpgVqFP5/file3e54129b02b")
+getwd()
+long_data <- read.csv("Coxreg.csv", head=T)
+setwd('/Users/matt_l')
+summarySE <- function(data=NULL, measurevar, groupvars=NULL, na.rm=FALSE,
+survive <- read.table("~/Downloads/Coxreg.tex", h=T)
+survive <- read.table("~/Downloads/Coxreg.txt", h=T)
+head(survive)
+km.by.treatment <- survfit((Surv(day,status)) ~ treat, data=coxm, conf.type = "log-log")
+library("Survival")
+install.packages("Survival")
+install.packages("survival")
+require("survival")
+km.by.treatment <- survfit((Surv(day,status)) ~ treat, data=coxm, conf.type = "log-log")
+survive
+coxm <- read.table("~/Downloads/Coxreg.txt", h=T)
+km.by.treatment <- survfit((Surv(day,status)) ~ treat, data=coxm, conf.type = "log-log")
+head(coxm)
+km.by.treatment <- survfit((Surv(day,status)) ~ treatment, data=coxm, conf.type = "log-log")
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival",
+main="Effects of Atrazine and Paraquat on Male Survival", lwd=4)
+legend(
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival",
+main="Effects of Atrazine and Paraquat on Male Survival", lwd=4)
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), col=c(grey, black), ylim=c(.4,1), xlab="Day", ylab="Survival", #
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=4)
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), col=c("grey", "black"), ylim=c(.4,1), xlab="Day", ylab="Survival",
+main="Effects of Atrazine and Paraquat on Male Survival", lwd=4)
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival",
+main="Effects of Atrazine and Paraquat on Male Survival", lwd=2)
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), col=c(16,17, 80, 226, 221, 261), ylim=c(.4,1), xlab="Day", ylab="Survival",
+main="Effects of Atrazine and Paraquat on Male Survival", lwd=2)
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), colors=c(16,17, 80, 226, 221, 261), ylim=c(.4,1), xlab="Day", ylab="Survival",
+main="Effects of Atrazine and Paraquat on Male Survival", lwd=2)
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), pch=2, ylim=c(.4,1), xlab="Day", ylab="Survival",
+main="Effects of Atrazine and Paraquat on Male Survival", lwd=2)
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival", #
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)
+"A + 5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+legend(bottomleft, c("Control", "Atrazine", "200 \$mu$M Paraquat", "5 mM Paraquat", "A+ 200 \$mu$M Paraquat",#
+	"A + 5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival", #
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(bottomleft, c("Control", "Atrazine", "200 \$mu$M Paraquat", "5 mM Paraquat", "A+ 200 \$mu$M Paraquat",#
+	"A + 5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+legend(bottomleft, c("Control", "Atrazine", "200 \$mu$M Paraquat", "5 mM Paraquat", "A+ 200 \$mu$M Paraquat", "A + 5 mM Paraquat"), #
+	lty=c(1,2,3,4,5,6))
+legend(bottomleft, c("Control", "Atrazine", "200 \$mu$M Paraquat", "5 mM Paraquat", "A+200 \$mu$M Paraquat", "A+5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+legend(bottomleft, c("Control", "Atrazine", "200 \muM Paraquat", "5 mM Paraquat", "A+200 \muM Paraquat", "A+5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+legend(bottomleft, c("Control", "Atrazine", "200", mu, "M Paraquat", "5 mM Paraquat", "A+200", mu, "M Paraquat", "A+5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+legend(bottomleft, c("Control", "Atrazine", expression(paste("200", mu, "M Paraquat")), "5 mM Paraquat", expression(paste"A+200", mu, "M Paraquat")), "A+5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+legend(bottomleft, expression(paste(c("Control", "Atrazine", "200", mu, "M Paraquat", "5 mM Paraquat", "A+200", mu, "M Paraquat", "A+5 mM Paraquat", lty=c(1,2,3,4,5,6))))
+)
+legend(bottomleft, expression(paste(c("Control", "Atrazine", "200", mu, "M Paraquat", "5 mM Paraquat", "A+200", mu, "M Paraquat", "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6)))
+)
+legend(bottomleft, expression(paste(c("Control", "Atrazine", "200", mu, "M Paraquat", "5 mM Paraquat", "A+200", mu, "M Paraquat", "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))))
+legend(topright, expression(paste(c("Control", "Atrazine", "200", mu, "M Paraquat", "5 mM Paraquat", "A+200", mu, "M Paraquat", "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))))
+lty=c(1,2,3,4,5,6))
+legend(bottomleft, c("Control", "Atrazine", "200", mu, "M Paraquat", "5 mM Paraquat", "A+200", mu, "M Paraquat", "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))
+legend(bottomleft, c("Control", "Atrazine", "200 M Paraquat", "5 mM Paraquat", "A+200 M Paraquat", "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))
+legend(x="bottomleft", c("Control", "Atrazine", "200 M Paraquat", "5 mM Paraquat", "A+200 M Paraquat", "A+5 mM Paraquat"),
+)
+legend(x="bottomleft", c("Control", "Atrazine", "200", mu, "M Paraquat", "5 mM Paraquat", "A+200", mu, "M Paraquat", "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))))
+legend(bottomleft, expression(paste(c("Control", "Atrazine", "200", mu, "M Paraquat", "5 mM Paraquat", "A+200", mu, "M Paraquat", "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))))
+legend(x="bottomleft", expression(paste(c("Control", "Atrazine", "200", mu, "M Paraquat", "5 mM Paraquat", "A+200", mu, "M Paraquat", "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))))
+legend(x="bottomleft", c("Control", "Atrazine", expression(paste("200", mu, "M Paraquat")), "5 mM Paraquat", expression(paste("A+200", mu, "M Paraquat")), "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))))
+legend(x="bottomleft", expression(c("Control", "Atrazine", "200", mu, "M Paraquat", "5 mM Paraquat", "A+200", mu, "M Paraquat", "A+5 mM Paraquat"),
+lty=c(1,2,3,4,5,6))))
+legend(x="bottomleft", expression(c("Control", "Atrazine", "200", mu, "M Paraquat", "5 mM Paraquat", "A+200", mu, "M Paraquat", "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))))
+legend(x="bottomleft", legeend=c(expression("Control", "Atrazine", paste("200", mu, "M Paraquat"), "5 mM Paraquat", paste("A+200", mu, "M Paraquat"), "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))))
+legend(x="bottomleft", legeend=c(expression("Control", "Atrazine", "200 mu M Paraquat"), "5 mM Paraquat", "A+200 mu M Paraquat"), "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))))
+legend(x="bottomleft", legeend=c(expression("Control", "Atrazine", "200 mu M Paraquat"), "5 mM Paraquat", "A+200 mu M Paraquat"), "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6)))
+legend(x="bottomleft", legeend=c(expression("Control", "Atrazine", "200 mu M Paraquat"), "5 mM Paraquat", "A+200 mu M Paraquat"), "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))
+legend(x="bottomleft", legeend=c(expression("Control", "Atrazine", "200 mu M Paraquat"), "5 mM Paraquat", "A+200 mu M Paraquat", "A+5 mM Paraquat"), #
+lty=c(1,2,3,4,5,6))))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival", #
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", "200 mu M Paraquat", "5 mM Paraquat", "A+200 mu M Paraquat", "A+5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival", #
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200", mu,"M Paraquat"), "5 mM Paraquat", "A+200 mu M Paraquat", "A+5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival", #
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200", mu,"M Paraquat")), "5 mM Paraquat", "A+200 mu M Paraquat", "A+5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival", #
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200", mu,"M Paraquat")), "5 mM Paraquat", expression(paste("A+200", mu,"M Paraquat"), "A+5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival", #
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200", mu,"M Paraquat")), "5 mM Paraquat", expression(paste("A+200", mu,"M Paraquat")), "A+5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival", #
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200 ", mu,"M Paraquat")), "5 mM Paraquat", expression(paste("A+200 ", mu,"M Paraquat")), "A+5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+head(coxm)
+cox <- subset(coxm, coxm$sex == "m")
+km.by.treatment <- survfit((Surv(day,status)) ~ treatment, data=coxm, conf.type = "log-log")#
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival", #
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200 ", mu,"M Paraquat")), "5 mM Paraquat", expression(paste("A+200 ", mu,"M Paraquat")), "A+5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+km.by.treatment <- survfit((Surv(day,status)) ~ treatment, data=coxm, conf.type = "log-log")#
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival",#
+	col=c(16, 17, 204, 276, 303, 381, 418),#
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200 ", mu,"M Paraquat")), "5 mM Paraquat", expression(paste("A+200 ", mu,"M Paraquat")), "A+5 mM Paraquat"), lty=c(1,2,3,4,5,6))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival",#
+	col=c(16, 17, 204, 276, 303, 381, 418),#
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200 ", mu,"M Paraquat")), "5 mM Paraquat", expression(paste("A+200 ", mu,"M Paraquat")), "A+5 mM Paraquat"),#
+ 	lty=c(1,2,3,4,5,6), col=c(16, 17, 204, 276, 303, 381, 418))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival",#
+	col=c("grey", "grey5", "grey17", "grey29", "grey41", "grey53", "grey65"),#
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200 ", mu,"M Paraquat")), "5 mM Paraquat", expression(paste("A+200 ", mu,"M Paraquat")), "A+5 mM Paraquat"),#
+ 	lty=c(1,2,3,4,5,6), col=c("grey", "grey5", "grey17", "grey29", "grey41", "grey53", "grey65"))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival",#
+	col=c("grey0", "grey5", "grey17", "grey29", "grey41", "grey53", "grey65"),#
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200 ", mu,"M Paraquat")), "5 mM Paraquat", expression(paste("A+200 ", mu,"M Paraquat")), "A+5 mM Paraquat"),#
+ 	lty=c(1,2,3,4,5,6), col=c("grey0", "grey5", "grey17", "grey29", "grey41", "grey53", "grey65"))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival",#
+	col=c("grey0", "grey11", "grey23", "grey35", "grey47", "grey59", "grey71"),#
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=0.5)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200 ", mu,"M Paraquat")), "5 mM Paraquat", expression(paste("A+200 ", mu,"M Paraquat")), "A+5 mM Paraquat"),#
+ 	lty=c(1,2,3,4,5,6), col=c("grey0", "grey11", "grey23", "grey35", "grey47", "grey59", "grey71"))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival",#
+	col=c("grey0", "grey11", "grey23", "grey35", "grey47", "grey59", "grey71"),#
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=1)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200 ", mu,"M Paraquat")), "5 mM Paraquat", expression(paste("A+200 ", mu,"M Paraquat")), "A+5 mM Paraquat"),#
+ 	lty=c(1,2,3,4,5,6), col=c("grey0", "grey11", "grey23", "grey35", "grey47", "grey59", "grey71"), lwd=1)
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival",#
+	col=c("grey0", "grey11", "grey23", "grey35", "grey47", "grey59", "grey71"),#
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=1, ylim=c(0,1))#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200 ", mu,"M Paraquat")), "5 mM Paraquat", expression(paste("A+200 ", mu,"M Paraquat")), "A+5 mM Paraquat"),#
+ 	lty=c(1,2,3,4,5,6), col=c("grey0", "grey11", "grey23", "grey35", "grey47", "grey59", "grey71"), lwd=1)
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(.4,1), xlab="Day", ylab="Survival",#
+	col=c("grey0", "grey11", "grey23", "grey35", "grey47", "grey59", "grey71"),#
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=1, ylim=c(0,1))
+plot(km.by.treatment, lty=c(1,2,3,4,5,6), ylim=c(0,1), xlab="Day", ylab="Survival",#
+	col=c("grey0", "grey11", "grey23", "grey35", "grey47", "grey59", "grey71"),#
+	main="Effects of Atrazine and Paraquat on Male Survival", lwd=1)#
+legend(x="bottomleft", legend=c("Control", "Atrazine", expression(paste("200 ", mu,"M Paraquat")), "5 mM Paraquat", expression(paste("A+200 ", mu,"M Paraquat")), "A+5 mM Paraquat"),#
+ 	lty=c(1,2,3,4,5,6), col=c("grey0", "grey11", "grey23", "grey35", "grey47", "grey59", "grey71"), lwd=1)
+x <- c(1,\2,3,4)
+y <-c(2,3,4,5)
+x <- c(1,2,3,4)
+y <-c(2,3,4,5)
+plot(x,y)
+quit(save = "no")
+library(BiodiversityR)
+rankabuncomp()
+rankabuncomp
+setwd("/Users/matt_l/Dropbox/Graduate/PHD_Committee/Prospectus,/Users/matt_l/Dropbox/Projects/2014-15_Streams/Combined")
+##To make a LaTeX table
+setwd("/Users/matt_l/Dropbox/Graduate/PHD_Committee/Prospectus,/Users/matt_l/Dropbox/Projects/2014-15_Streams/Combined")
+richness <- read.csv("Data/insects_comb.csv", h=T)
+setwd("/Users/matt_l/Dropbox/Graduate/PHD_Committee/Prospectus,/Users/matt_l/Dropbox/Projects/2014-15_Streams/Combined")
+richness <- read.csv("Data/insects_comb.csv", h=T)
+getwd()
+q()
+install.packages('knitr', dependencies = TRUE)
+install.packages('knitr')
+install.packages('knitr', dependencies = TRUE)
+update.packages()
+setwd("/Users/matt_l")
+%This is the results section#
+  %Text to be written in LaTeX, statistics are written in R#
+      %All R code blocks need to start with <<>>= with the appropriate options and ended with @#
+#
+\section*{Results}#
+#
+%Call relevant data#
+<<echo=FALSE,results='hide'>>=#
+insects <- read.csv("/Users/matt_l/Box Sync/Projects/Stream Paper/Data/insects.csv", header=T)#
+chemistry <- read.csv("/Users/matt_l/Box Sync/Projects/Stream Paper/Data/chemistry.csv", header=T)#
+@#
+#
+%What are some important questions that I need to ask using my data?#
+  %1- Are insect community assemblages different between upstream rural and downstream urban reaches within streams?#
+#
+<<echo=FALSE,results='hide'>>=#
+#Richness based on lowest taxonomic level#
+#Calculate richness from insects data file#
+richness  <- matrix(data=NA, ncol=1,#
+	nrow=nlevels(insects$month)*nlevels(insects$site)*#
+		nlevels(factor(insects$year)))#
+k=1#
+for(i in levels(factor(insects$year))){#
+	for(j in levels(insects$month)){#
+		for(p in levels(insects$site)){#
+		n <- subset(insects$lowest, insects$year == i#
+			& insects$month == j & insects$site == p)#
+		o <- factor(n)#
+		q <- nlevels(o)#
+		richness[k,]  <-  c(q)#
+		k=1+k#
+    }#
+  }#
+}#
+#Get rid of the pesky quotes generated by the for()-loop#
+richness <- noquote(richness)#
+#
+#Convert everything to specific conductance#
+specific_conductance  <- matrix(data=NA, ncol=1,#
+	nrow=nlevels(insects$month)*nlevels(insects$site)*#
+		nlevels(factor(insects$year)))#
+k=1#
+for(i in levels(factor(chemistry$year))){#
+	for(j in levels(chemistry$month)){#
+		for(p in levels(chemistry$site)){#
+			if(is.na(chemistry$special_conductivity[chemistry$year == i & chemistry$month == j & chemistry$site == p])){#
+				specific_conductance[k,] <-  chemistry$conductivity[chemistry$year == i & chemistry$month == j & chemistry$site == p]/(1+0.0191*(18-25))#
+			} else {#
+				specific_conductance[k,] <- chemistry$special_conductivity[chemistry$year == i & chemistry$month == j & chemistry$site == p]#
+			}#
+		k=1+k#
+		}#
+	}#
+}#
+#Round to 0.1 decimals#
+specific_conductance <- round(specific_conductance, digits=1)#
+#Combine specific_conductance to chemistry data.frame; make sure sorting is the same!#
+full_chem <- data.frame(chemistry, richness, specific_conductance)#
+#Insects were not sampled on from LCD in April (make NA)#
+full_chem$richness[full_chem$site == "LCD" & full_chem$month == "1_April"] <- NA#
+#
+@#
+#
+%Paired t-tests for Richness#
+<<echo=FALSE,results='hide'>>=#
+#Little Snake#
+LS <- subset(full_chem, stream == "LS")#
+LS_rich <- t.test(LS$richness[LS$site == "LSD"],#
+	LS$richness[LS$site== "LSU"], paired=TRUE)#
+#Trowbridge#
+TB <- subset(full_chem, stream == "TB")#
+TB_rich <- t.test(TB$richness[TB$site=="TBD"],#
+	TB$richness[TB$site=="TBU"], paired=TRUE)#
+#Fuller Hollow#
+FH <- subset(full_chem, stream == "FH")#
+FH_rich <- t.test(FH$richness[FH$urban.rural.ref=="urban"],#
+	FH$richness[FH$urban.rural.ref=="rural"], paired=TRUE)#
+#Pierce Creek#
+PC <- subset(full_chem, stream == "PC" & month != "1_April")#
+PC_rich <- t.test(PC$richness[PC$urban.rural.ref=="urban"],#
+	PC$richness[PC$urban.rural.ref=="rural"], paired=TRUE)#
+#Little Choconut (without April)#
+LC <- subset(full_chem, stream == "LC")#
+LC_rich <- t.test(LC$richness[LC$urban.rural.ref=="urban"],#
+	LC$richness[LC$urban.rural.ref=="rural"], paired=TRUE)#
+#Patterson Creek#
+PT <- subset(full_chem, stream == "PT")#
+PT_rich <- t.test(PT$richness[PT$urban.rural.ref=="urban"],#
+	PT$richness[PT$urban.rural.ref=="rural"], paired=TRUE)#
+#Choconut Creek#
+CC <- subset(full_chem, stream == "CC")#
+CC_rich <- t.test(CC$richness[CC$urban.rural.ref=="urban"],#
+	CC$richness[CC$urban.rural.ref=="rural"], paired=TRUE)#
+@#
+#
+%Text starts#
+The folowing p-values were extracted from paired t-tests comparing richness between urban and rural sites. Over the two year study period, richness differed significantly between urban and rural sites in Pierce Creek (P~=~\Sexpr{round(PC_rich$p.value, digits=3)}), Fuller Hollow Creek (P~=~\Sexpr{round(FH_rich$p.value, digits=3)}), Choconut Creek (P~=~\Sexpr{round(CC_rich$p.value, digits=3)}), and Patterson Creek (P~=~\Sexpr{round(PT_rich$p.value, digits=3)}). The difference in richness between sites in Little Choconut Creek were not significant (P~=~\Sexpr{round(LC_rich$p.value, digits=1)}); however mean richness was low in Little Choconut Creek (Fig.~\ref{fig:pair_rich}).#
+#
+There were no significant differences in richness between upstream and downstream sites in Trowbridge Creek (P~=~\Sexpr{round(TB_rich$p.value, digits=1)}). There was a significant difference between sites in Little Snake Creek (P~=~\Sexpr{round(LS_rich$p.value, digits=3)}); however, the lowest mean richness was observed in the upstream site (Fig.~\ref{fig:pair_rich})#
+#
+%2: Of the independent variables, what is different between sites?#
+%Need more paired t-tests#
+#
+<<echo=FALSE,results='hide'>>=#
+#specific_conductance#
+#Little Snake#
+LS_specific_conductance <- t.test(LS$specific_conductance[LS$site == "LSD"],#
+	LS$specific_conductance[LS$site== "LSU"], paired=TRUE)#
+if(LS_specific_conductance$p.value < 0.001){#
+	LS_cond <- "$<$~0.001"#
+}	else{#
+	LS_specific_conductance$p.value <- LS_specific_conductance$p.value#
+}#
+#Trowbridge#
+TB_specific_conductance <- t.test(TB$specific_conductance[TB$site=="TBD"],#
+	TB$specific_conductance[TB$site=="TBU"], paired=TRUE)#
+if(TB_specific_conductance$p.value < 0.001){#
+		TB_cond <- "$<$~0.001"#
+	}	else{#
+		TB_specific_conductance$p.value <- TB_specific_conductance$p.value#
+	}#
+#Fuller Hollow#
+FH_specific_conductance <- t.test(FH$specific_conductance[FH$urban.rural.ref=="urban"],#
+	FH$specific_conductance[FH$urban.rural.ref=="rural"], paired=TRUE)#
+	if(FH_specific_conductance$p.value < 0.001){#
+		FH_cond <- "$<$~0.001"#
+	}	else{#
+		FH_specific_conductance$p.value <- FH_specific_conductance$p.value#
+	}#
+#Pierce Creek#
+PC_specific_conductance <- t.test(PC$specific_conductance[PC$urban.rural.ref=="urban"],#
+	PC$specific_conductance[PC$urban.rural.ref=="rural"], paired=TRUE)#
+	if(PC_specific_conductance$p.value < 0.001){#
+		PC_cond <- "$<$~0.001"#
+	}	else{#
+		PC_specific_conductance$p.value <- PC_specific_conductance$p.value#
+	}#
+#Little Choconut (with April 2015)#
+LC_specific_conductance <- t.test(LC$specific_conductance[LC$urban.rural.ref=="urban"],#
+	LC$specific_conductance[LC$urban.rural.ref=="rural"], paired=TRUE)#
+	if(LC_specific_conductance$p.value < 0.001){#
+		LC_cond <- "$<$~0.001"#
+	}	else{#
+		LC_specific_conductance$p.value <- LC_specific_conductance$p.value#
+	}#
+#Patterson Creek#
+PT_specific_conductance <- t.test(PT$specific_conductance[PT$urban.rural.ref=="urban"],#
+	PT$specific_conductance[PT$urban.rural.ref=="rural"], paired=TRUE)#
+	if(PT_specific_conductance$p.value < 0.001){#
+		PT_cond <- "$<$~0.001"#
+	}	else{#
+		PT_specific_conductance$p.value <- PT_specific_conductance$p.value#
+	}#
+#Choconut Creek#
+CC_specific_conductance <- t.test(CC$specific_conductance[CC$urban.rural.ref=="urban"],#
+	CC$specific_conductance[CC$urban.rural.ref=="rural"], paired=TRUE)#
+	if(CC_specific_conductance$p.value < 0.001){#
+		CC_cond <- "$<$~0.001"#
+	}	else{#
+		CC_specific_conductance$p.value <- CC_specific_conductance$p.value#
+	}#
+#
+@#
+#
+%Text starts#
+The following p-values were extracted from paired t-tests comparing specific conductance between urban and rural sites. Over the two year study period, spcific conductance differed significantly between urban and rural sites in Pierce Creek (P~\Sexpr{PC_cond}), Little Choconut Creek (P~\Sexpr{LC_cond}), Choconut Creek (P~\Sexpr{CC_cond}), and Patterson Creek (P~\Sexpr{PT_cond}). The difference in specific conductance was not significant between sites in Fuller Hollow Creek (P~=~\Sexpr{round(FH_specific_conductance$p.value, digits=1)})(Figure~\ref{fig:pair_cond}).#
+#
+There were no significant differences in specific conductance between upstream and downstream sites in Trowbridge Creek (P~=~\Sexpr{round(TB_specific_conductance$p.value, digits=3)} or Little Snake Creek (P~=~\Sexpr{round(LS_specific_conductance$p.value, digits=1)}).#
+#
+%Other measurements#
+%Nitrate#
+<<echo=FALSE,results='hide'>>=#
+#Little Snake#
+LS <- subset(full_chem, stream == "LS")#
+LS_rich <- t.test(LS$richness[LS$site == "LSD"],#
+	LS$richness[LS$site== "LSU"], paired=TRUE)#
+#Trowbridge#
+TB <- subset(full_chem, stream == "TB")#
+TB_rich <- t.test(TB$richness[TB$site=="TBD"],#
+	TB$richness[TB$site=="TBU"], paired=TRUE)#
+#Fuller Hollow#
+FH <- subset(full_chem, stream == "FH")#
+FH_rich <- t.test(FH$richness[FH$urban.rural.ref=="urban"],#
+	FH$richness[FH$urban.rural.ref=="rural"], paired=TRUE)#
+#Pierce Creek#
+PC <- subset(full_chem, stream == "PC" & month != "1_April")#
+PC_rich <- t.test(PC$richness[PC$urban.rural.ref=="urban"],#
+	PC$richness[PC$urban.rural.ref=="rural"], paired=TRUE)#
+#Little Choconut (without April)#
+LC <- subset(full_chem, stream == "LC")#
+LC_rich <- t.test(LC$richness[LC$urban.rural.ref=="urban"],#
+	LC$richness[LC$urban.rural.ref=="rural"], paired=TRUE)#
+#Patterson Creek#
+PT <- subset(full_chem, stream == "PT")#
+PT_rich <- t.test(PT$richness[PT$urban.rural.ref=="urban"],#
+	PT$richness[PT$urban.rural.ref=="rural"], paired=TRUE)#
+#Choconut Creek#
+CC <- subset(full_chem, stream == "CC")#
+CC_rich <- t.test(CC$richness[CC$urban.rural.ref=="urban"],#
+	CC$richness[CC$urban.rural.ref=="rural"], paired=TRUE)#
+@#
+#
+%Text starts#
+The folowing p-values were extracted from paired t-tests comparing richness between urban and rural sites. Over the two year study period, richness differed significantly between urban and rural sites in Pierce Creek (P~=~\Sexpr{round(PC_rich$p.value, digits=3)}), Fuller Hollow Creek (P~=~\Sexpr{round(FH_rich$p.value, digits=3)}), Choconut Creek (P~=~\Sexpr{round(CC_rich$p.value, digits=3)}), and Patterson Creek (P~=~\Sexpr{round(PT_rich$p.value, digits=3)}). The difference in richness between sites in Little Choconut Creek were not significant (P~=~\Sexpr{round(LC_rich$p.value, digits=1)}); however mean richness was low in Little Choconut Creek (Fig.~\ref{fig:pair_rich}).#
+#
+There were no significant differences in richness between upstream and downstream sites in Trowbridge Creek (P~=~\Sexpr{round(TB_rich$p.value, digits=1)}). There was a significant difference between sites in Little Snake Creek (P~=~\Sexpr{round(LS_rich$p.value, digits=3)}); however, the lowest mean richness was observed in the upstream site (Fig.~\ref{fig:pair_rich})#
+#
+%2: Of the independent variables, what is different between sites?#
+%Need more paired t-tests#
+#
+<<echo=FALSE,results='hide',warning=FALSE>>=#
+#no3#
+#Using Mann-Whitney U test#
+#
+#Little Snake#
+LS_no3 <- wilcox.test(LS$no3[LS$site == "LSD"],#
+	LS$no3[LS$site== "LSU"])#
+if(LS_no3$p.value < 0.001){#
+	LS_cond <- "$<$~0.001"#
+}	else{#
+	LS_no3$p.value <- LS_no3$p.value#
+}#
+#Trowbridge#
+TB_no3 <- wilcox.test(TB$no3[TB$site=="TBD"],#
+	TB$no3[TB$site=="TBU"])#
+if(TB_no3$p.value < 0.001){#
+		TB_cond <- "$<$~0.001"#
+	}	else{#
+		TB_no3$p.value <- TB_no3$p.value#
+	}#
+#Fuller Hollow#
+FH_no3 <- wilcox.test(FH$no3[FH$urban.rural.ref=="urban"],#
+	FH$no3[FH$urban.rural.ref=="rural"])#
+	if(FH_no3$p.value < 0.001){#
+		FH_cond <- "$<$~0.001"#
+	}	else{#
+		FH_no3$p.value <- FH_no3$p.value#
+	}#
+#Pierce Creek#
+PC_no3 <- wilcox.test(PC$no3[PC$urban.rural.ref=="urban"],#
+	PC$no3[PC$urban.rural.ref=="rural"])#
+	if(PC_no3$p.value < 0.001){#
+		PC_cond <- "$<$~0.001"#
+	}	else{#
+		PC_no3$p.value <- PC_no3$p.value#
+	}#
+#Little Choconut (with April 2015)#
+LC_no3 <- wilcox.test(LC$no3[LC$urban.rural.ref=="urban"],#
+	LC$no3[LC$urban.rural.ref=="rural"])#
+	#if(LC_no3$p.value < 0.001){#
+	#	LC_cond <- "$<$~0.001"#
+	#}	else{#
+	#	LC_no3$p.value <- LC_no3$p.value#
+	#}#
+#Patterson Creek#
+PT_no3 <- wilcox.test(PT$no3[PT$urban.rural.ref=="urban"],#
+	PT$no3[PT$urban.rural.ref=="rural"])#
+	if(PT_no3$p.value < 0.001){#
+		PT_cond <- "$<$~0.001"#
+	}	else{#
+		PT_no3$p.value <- PT_no3$p.value#
+	}#
+#Choconut Creek#
+CC_no3 <- wilcox.test(CC$no3[CC$urban.rural.ref=="urban"],#
+	CC$no3[CC$urban.rural.ref=="rural"])#
+	if(CC_no3$p.value < 0.001){#
+		CC_cond <- "$<$~0.001"#
+	}	else{#
+		CC_no3$p.value <- CC_no3$p.value#
+	}#
+@#
+#
+%Ammonia#
+<<echo=FALSE,results='hide',warning=FALSE>>=#
+#no3#
+#Using Mann-Whitney U test#
+#
+#Little Snake#
+LS_nh4 <- wilcox.test(LS$nh4[LS$site == "LSD"],#
+	LS$nh4[LS$site== "LSU"])#
+if(LS_nh4$p.value < 0.001){#
+	LS_cond <- "$<$~0.001"#
+}	else{#
+	LS_nh4$p.value <- LS_nh4$p.value#
+}#
+#Trowbridge#
+TB_nh4 <- wilcox.test(TB$nh4[TB$site=="TBD"],#
+	TB$nh4[TB$site=="TBU"])#
+if(TB_nh4$p.value < 0.001){#
+		TB_cond <- "$<$~0.001"#
+	}	else{#
+		TB_nh4$p.value <- TB_nh4$p.value#
+	}#
+#Fuller Hollow#
+FH_nh4 <- wilcox.test(FH$nh4[FH$urban.rural.ref=="urban"],#
+	FH$nh4[FH$urban.rural.ref=="rural"])#
+	if(FH_nh4$p.value < 0.001){#
+		FH_cond <- "$<$~0.001"#
+	}	else{#
+		FH_nh4$p.value <- FH_nh4$p.value#
+	}#
+#Pierce Creek#
+PC_nh4 <- wilcox.test(PC$nh4[PC$urban.rural.ref=="urban"],#
+	PC$nh4[PC$urban.rural.ref=="rural"])#
+	if(PC_nh4$p.value < 0.001){#
+		PC_cond <- "$<$~0.001"#
+	}	else{#
+		PC_nh4$p.value <- PC_nh4$p.value#
+	}#
+#Little Choconut (with April 2015)#
+LC_nh4 <- wilcox.test(LC$nh4[LC$urban.rural.ref=="urban"],#
+	LC$nh4[LC$urban.rural.ref=="rural"])#
+	if(LC_nh4$p.value < 0.001){#
+		LC_cond <- "$<$~0.001"#
+	}	else{#
+		LC_nh4$p.value <- LC_nh4$p.value#
+	}#
+#Patterson Creek#
+PT_nh4 <- wilcox.test(PT$nh4[PT$urban.rural.ref=="urban"],#
+	PT$nh4[PT$urban.rural.ref=="rural"])#
+	if(PT_nh4$p.value < 0.001){#
+		PT_cond <- "$<$~0.001"#
+	}	else{#
+		PT_nh4$p.value <- PT_nh4$p.value#
+	}#
+#Choconut Creek#
+CC_nh4 <- wilcox.test(CC$nh4[CC$urban.rural.ref=="urban"],#
+	CC$nh4[CC$urban.rural.ref=="rural"])#
+	if(CC_nh4$p.value < 0.001){#
+		CC_cond <- "$<$~0.001"#
+	}	else{#
+		CC_nh4$p.value <- CC_nh4$p.value#
+	}#
+@#
+%Temperature#
+#
+<<echo=FALSE,results='hide',warning=FALSE>>=#
+#wtemp#
+#Using Mann-Whitney U test#
+#
+#Little Snake#
+LS_wtemp <- wilcox.test(LS$wtemp[LS$site == "LSD"],#
+	LS$wtemp[LS$site== "LSU"])#
+if(LS_wtemp$p.value < 0.001){#
+	LS_cond <- "$<$~0.001"#
+}	else{#
+	LS_wtemp$p.value <- LS_wtemp$p.value#
+}#
+#Trowbridge#
+TB_wtemp <- wilcox.test(TB$wtemp[TB$site=="TBD"],#
+	TB$wtemp[TB$site=="TBU"])#
+if(TB_wtemp$p.value < 0.001){#
+		TB_cond <- "$<$~0.001"#
+	}	else{#
+		TB_wtemp$p.value <- TB_wtemp$p.value#
+	}#
+#Fuller Hollow#
+FH_wtemp <- wilcox.test(FH$wtemp[FH$urban.rural.ref=="urban"],#
+	FH$wtemp[FH$urban.rural.ref=="rural"])#
+	if(FH_wtemp$p.value < 0.001){#
+		FH_cond <- "$<$~0.001"#
+	}	else{#
+		FH_wtemp$p.value <- FH_wtemp$p.value#
+	}#
+#Pierce Creek#
+PC_wtemp <- wilcox.test(PC$wtemp[PC$urban.rural.ref=="urban"],#
+	PC$wtemp[PC$urban.rural.ref=="rural"])#
+	if(PC_wtemp$p.value < 0.001){#
+		PC_cond <- "$<$~0.001"#
+	}	else{#
+		PC_wtemp$p.value <- PC_wtemp$p.value#
+	}#
+#Little Choconut (with April 2015)#
+LC_wtemp <- wilcox.test(LC$wtemp[LC$urban.rural.ref=="urban"],#
+	LC$wtemp[LC$urban.rural.ref=="rural"])#
+	if(LC_wtemp$p.value < 0.001){#
+		LC_cond <- "$<$~0.001"#
+	}	else{#
+		LC_wtemp$p.value <- LC_wtemp$p.value#
+	}#
+#Patterson Creek#
+PT_wtemp <- wilcox.test(PT$wtemp[PT$urban.rural.ref=="urban"],#
+	PT$wtemp[PT$urban.rural.ref=="rural"])#
+	if(PT_wtemp$p.value < 0.001){#
+		PT_cond <- "$<$~0.001"#
+	}	else{#
+		PT_wtemp$p.value <- PT_wtemp$p.value#
+	}#
+#Choconut Creek#
+CC_wtemp <- wilcox.test(CC$wtemp[CC$urban.rural.ref=="urban"],#
+	CC$wtemp[CC$urban.rural.ref=="rural"])#
+	if(CC_wtemp$p.value < 0.001){#
+		CC_cond <- "$<$~0.001"#
+	}	else{#
+		CC_wtemp$p.value <- CC_wtemp$p.value#
+	}#
+@
+CC_wtemp <- wilcox.test(CC$wtemp[CC$urban.rural.ref=="urban"],#
++ 	CC$wtemp[CC$urban.rural.ref=="rural"])
+CC$wtemp[CC$urban.rural.ref=="urban"
+]
+CC$wtemp[CC$urban.rural.ref=="rural"]
+mean(CC$wtemp[CC$urban.rural.ref=="rural"])
+mean(CC$wtemp[CC$urban.rural.ref=="urban"])
+CCPwtemp
+CCwtemp
+CC_wtemp
+PC_no3
+FH_no3
+mean(Fh$wtemp[FH$urban.rural.ref=="urban"])
+mean(FH$wtemp[FH$urban.rural.ref=="urban"])
+mean(FH$wtemp[FH$urban.rural.ref=="rural"])
+mean(FH$no3[FH$urban.rural.ref=="urban"])
+mean(FH$no3[FH$urban.rural.ref=="rural"])
+numbers2words(length(r_diff))
+q()
+numbers2words <- function(x){#
+#
+    helper <- function(x){#
+#
+        digits <- rev(strsplit(as.character(x), "")[[1]])#
+        nDigits <- length(digits)#
+        if (nDigits == 1) as.vector(ones[digits])#
+        else if (nDigits == 2)#
+            if (x <= 19) as.vector(teens[digits[1]])#
+                else trim(paste(tens[digits[2]],#
+Recall(as.numeric(digits[1]))))#
+        else if (nDigits == 3) trim(paste(ones[digits[3]], "hundred", #
+            Recall(makeNumber(digits[2:1]))))#
+        else {#
+            nSuffix <- ((nDigits + 2) %/% 3) - 1#
+            if (nSuffix > length(suffixes)) stop(paste(x, "is too large!"))#
+            trim(paste(Recall(makeNumber(digits[#
+                nDigits:(3*nSuffix + 1)])),#
+                suffixes[nSuffix],  #
+                Recall(makeNumber(digits[(3*nSuffix):1]))))#
+            }#
+        }#
+    trim <- function(text){#
+        gsub("^\ ", "", gsub("\ *$", "", text))#
+        }      #
+#
+    makeNumber <- function(...) as.numeric(paste(..., collapse=""))     opts <- options(scipen=100) #
+    on.exit(options(opts)) #
+    ones <- c("", "one", "two", "three", "four", "five", "six", "seven",#
+        "eight", "nine") #
+    names(ones) <- 0:9 #
+    teens <- c("ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen",#
+#
+        "sixteen", " seventeen", "eighteen", "nineteen")     names(teens) <- 0:9 #
+    tens <- c("twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty",#
+#
+        "ninety") #
+    names(tens) <- 2:9 #
+    x <- round(x) #
+    suffixes <- c("thousand", "million", "billion", "trillion")     if (length(x) > 1) return(sapply(x, helper))     helper(x) #
+    }numbers2words <- function(x){#
+#
+    helper <- function(x){#
+#
+        digits <- rev(strsplit(as.character(x), "")[[1]])#
+        nDigits <- length(digits)#
+        if (nDigits == 1) as.vector(ones[digits])#
+        else if (nDigits == 2)#
+            if (x <= 19) as.vector(teens[digits[1]])#
+                else trim(paste(tens[digits[2]],#
+Recall(as.numeric(digits[1]))))#
+        else if (nDigits == 3) trim(paste(ones[digits[3]], "hundred", #
+            Recall(makeNumber(digits[2:1]))))#
+        else {#
+            nSuffix <- ((nDigits + 2) %/% 3) - 1#
+            if (nSuffix > length(suffixes)) stop(paste(x, "is too large!"))#
+            trim(paste(Recall(makeNumber(digits[#
+                nDigits:(3*nSuffix + 1)])),#
+                suffixes[nSuffix],  #
+                Recall(makeNumber(digits[(3*nSuffix):1]))))#
+            }#
+        }#
+    trim <- function(text){#
+        gsub("^\ ", "", gsub("\ *$", "", text))#
+        }      #
+#
+    makeNumber <- function(...) as.numeric(paste(..., collapse=""))     opts <- options(scipen=100) #
+    on.exit(options(opts)) #
+    ones <- c("", "one", "two", "three", "four", "five", "six", "seven",#
+        "eight", "nine") #
+    names(ones) <- 0:9 #
+    teens <- c("ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen",#
+#
+        "sixteen", " seventeen", "eighteen", "nineteen")     names(teens) <- 0:9 #
+    tens <- c("twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty",#
+#
+        "ninety") #
+    names(tens) <- 2:9 #
+    x <- round(x) #
+    suffixes <- c("thousand", "million", "billion", "trillion")     if (length(x) > 1) return(sapply(x, helper))     helper(x) #
+    }
+numbers2words()
+q()
+LS_biomass <- wilcox.test(LS$biomass.per.org[LS$site== "LSD" & LS$year == "2014"],#
+				LS$biomass.per.org[LS$site == "LSU" & LS$year == "2014"], paired=TRUE)
+LS_biomass
+TB_biomass <- wilcox.test(TB$biomass.per.org[TB$site=="TBD" & TB$year == "2014"],#
+				TB$biomass.per.org[TB$site =="TBU" & TB$year == "2014"], paired=TRUE)
+TB_biomass
+FH_biomass <- wilcox.test(FH$biomass.per.org[FH$urban.rural.ref=="urban" & FH$year == "2014"],#
+				FH$biomass.per.org[FH$urban.rural.ref=="rural" & FH$year == "2014"], paired=TRUE)
+FH_biomass
+PC_biomass <- wilcox.test(PC$biomass.per.org[PC$urban.rural.ref=="urban" & PC$year == "2014"],#
+				PC$biomass.per.org[PC$urban.rural.ref=="rural" & PC$year == "2014"], paired=TRUE)
+PC_biomass
+LC_biomass <- wilcox.test(LC$biomass.per.org[LC$urban.rural.ref=="urban" & LC$year == "2014"],#
+				LC$biomass.per.org[LC$urban.rural.ref=="rural" & LC$year == "2014"], paired=TRUE)
+LC_biomass
+PT_biomass <- wilcox.test(PT$biomass.per.org[PT$urban.rural.ref=="urban" & PT$year == "2014"],#
+				PT$biomass.per.org[PT$urban.rural.ref=="rural" & PT$year == "2014"], paired=TRUE)
+PT_biomass
+CC_biomass <- wilcox.test(CC$biomass.per.org[CC$urban.rural.ref=="urban" & CC$year == "2014"],#
+				CC$biomass.per.org[CC$urban.rural.ref=="rural" & CC$year == "2014"], paired=TRUE)
+CC_biomass
+weightSE <- summarySE(full_chem, measurevar="biomass.per.org", groupvars="site", na.rm=TRUE)#
+#
+family_biomass <- kruskal.test(wt$per.org ~ wt$family)#
+if(family_biomass$p.value < 0.001){#
+	family_bio <- "$<$~0.001"#
+}
+family_biolass
+family_biolmass
+family_biomass
+names(full_chem)
+full_chem$n.biomass
+full_chem$N.biomass
+par(mfrow=c(2,2))
+plot(1,2)
+ls()
+read.csv("~/Projects/stream_paper/data/biomass.csv")
+q()
+x <- c(3,2,1,4)
+x
+mean(x)
+n <- length(x)
+n
+[1] 2.5
+sum(x)/n
+y <- c(4,5,3,2)
+plot(x,y)
+3*2*1
+1*2
+function(n = n, k = k){ factorial(n)/(factorial(n-k)*k)}
+factor.nk <- function(n = n, k = k){ factorial(n)/(factorial(n-k)*k)}
+factor.nk(n=3,k=2)
+factor.nk(n=20,k=7)
+choose(1,3)
+choose(1,1)
+choose(3,1)
+choose(100,15)
+choose(3,2)
+choose(3,1)
+choose(3,3)
+choose(6,4)
+choose(6,5)
+choose(6,1)
+choose(6,2)
+choose(6,5)
+.5*.5
+.25*.5
+.25*5
+1.25+.5
+.125/1.25
+.25*.5
+.125+.5
+.125/.625
+0.9*0.000513
+(.6*.72)/.25
+(.6*.52)/.25
+52/100
+(.6*.52)/.25
+(.6*.48)/.25
+(.25*.52)/.6
+(.45*.52)/.6
+(.45*.12)/.3
+(.25*.12)/.3
+(.15*.12)/.3
+25+35+20+15
+x <- .6*.53
+x/.8
+x <- .4*.53
+y/.47
+x
+x/.47
+x/.2
+x <- .4*.53
+x
+x/.2
+x <- .8*.53
+x/.8
+x <- .2*.53
+x/.2
+x <- .7*.53
+x/.8
+x <- .3*.53
+x/.2
+.75/.46
+.46/.75
+.8*.7
+.56+(.2*.3)
+.2*.7
+.14+(.8*.3)
+.8*.7
+.56/.62
+.2*.7
+.14/.38
+.9/.36
+.36/.9
+.9/.36
+exit
+q()
+m <- read.table("T8-5.DAT")
+getwd()
+setwd("/Users/matt_l/GitHub/biostats-2016/Exercises/PCA")
