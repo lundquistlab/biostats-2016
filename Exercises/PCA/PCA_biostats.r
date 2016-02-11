@@ -1,5 +1,6 @@
 #.r script for running PCA, adapted from MVO 010 from the BAT
 
+#This was an activity from week 2
 
 #Data input
 
