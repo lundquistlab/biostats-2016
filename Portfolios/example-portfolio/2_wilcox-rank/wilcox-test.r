@@ -7,15 +7,20 @@
 #Read in the data
 iris <- read.table("iris.txt")
 
-#If I want to compare Sepal.Length between "setosa" and "versicolor" and I don't 
+#If I want to compare Sepal.Length between "setosa" and "versicolor" and I don't
 
 #Subset into two equal-length vectors
 
 setosa <- iris$Sepal.Length[iris$Species == "setosa"]
 versicolor <- iris$Sepal.Length[iris$Species == "versicolor"]
 
+#Calculate manually TODO
+
+n <- length(setosa)
+
+
+
 #Run the test using the build in function
 wilcox.test(setosa,versicolor,paired=TRUE)
 
-#Note the warning, this is explained in 
-
+#Note the warning, this is explained in wilcox-test.pdf
