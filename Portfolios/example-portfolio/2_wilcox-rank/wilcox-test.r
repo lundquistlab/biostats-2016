@@ -7,7 +7,7 @@
 #Read in the data
 iris <- read.table("iris.txt")
 
-#If I want to compare Sepal.Length between "setosa" and "versicolor" and I don't
+#If I want to compare Sepal.Length between "setosa" and "versicolor"
 
 #Subset into two equal-length vectors
 

@@ -1,4 +1,4 @@
-# Biostatistics with R 
+# Biostatistics with R
 
 (short URL: [bit.ly/biostats16](http://bit.ly/biostats16))
 
@@ -15,7 +15,7 @@ This repo will have:
 3. Extra resources
 4. ...
 
-If you are new to GitHub, you should check out this [blog post by Lauren Orsini](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1). However, for this class you only need to know how to download content from the repo. 
+If you are new to GitHub, you should check out this [blog post by Lauren Orsini](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1). However, for this class you only need to know how to download content from the repo.
 
 To do this:
 
@@ -35,5 +35,3 @@ To do this:
 [Forum](http://harvey.binghamton.edu/~mlundqu1/forum/)
 
 [Blackboard](https://blackboard.binghamton.edu)
-
-
