@@ -33,7 +33,7 @@ Suppose you know that generally, 70% of the students pass the test. You also kno
 
 3. What is the relative chance of passing between studying and not studying?
 
-   L<sub>study</sub>/L<sub>not study</sub> = 2.5
+   **L<sub>study</sub>/L<sub>not study</sub> = 2.5**
 
 4. Should he study?
 
