@@ -35,6 +35,7 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 |	+-- One sample chi-squared
 |	+-- Paired t-test
 |	+-- Two sample t-test
+|  +-- F-test and Levine's test
 +-- Non-parametric variance tests
 |	+-- Sign test
 |	+-- Wilcoxon Signed-Rank test
