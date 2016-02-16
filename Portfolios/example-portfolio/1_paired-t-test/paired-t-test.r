@@ -4,6 +4,9 @@
 
 #This a test is to compare related (paired) samples
 
+#NOTICE: These data are not strictly paired. This is simply an example of#
+#how to perform the test, not an actual test of any truly paired variables!!!#
+
 #Read in the data
 iris <- read.table("iris.txt")
 
@@ -23,7 +26,7 @@ length(versicolor)
 #Differences between pairs are normally distributed
 hist(setosa - versicolor, col="grey")
 
-#Run t-test manually 
+#Run t-test manually
 
 #Get the data together
 x1 <- setosa
