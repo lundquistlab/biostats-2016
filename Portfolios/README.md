@@ -31,35 +31,35 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 ````
 .
 +-- Parametric variance tests (*Due 2/26/2016*)
-|	+-- One sample t-test
-|	+-- One sample chi-squared
-|	+-- Paired t-test
-|	+-- Two sample t-test
+|  +-- One sample t-test
+|  +-- One sample chi-squared
+|  +-- Paired t-test
+|  +-- Two sample t-test
 |  +-- F-test and Levine's test
 +-- Non-parametric variance tests
-|	+-- Sign test
-|	+-- Wilcoxon Signed-Rank test
-|	+-- Wilcoxon Rank-Sum test
-|	+-- Mann-Whitney test
+|  +-- Sign test
+|  +-- Wilcoxon Signed-Rank test
+|  +-- Wilcoxon Rank-Sum test
+|  +-- Mann-Whitney test
 +-- Parametric analysis of variance
-|	+-- One-way ANOVA
-|	+-- Two-way ANOVA
-|	+-- Nested two-way ANOVA
+|  +-- One-way ANOVA
+|  +-- Two-way ANOVA
+|  +-- Nested two-way ANOVA
 +-- Non-parametric analysis of variance
-|	+-- Kruskal-Wallis test
-|	+-- Friedman two-way ANOVA by ranks
-|	+-- Cochran's Q test
+|  +-- Kruskal-Wallis test
+|  +-- Friedman two-way ANOVA by ranks
+|  +-- Cochran's Q test
 +-- Linear regression
-|	+-- Simple linear regression
-|	+-- Multiple regression
-|	+-- General linear models
-|	+-- Choosing optimal model
+|  +-- Simple linear regression
+|  +-- Multiple regression
+|  +-- General linear models
+|  +-- Choosing optimal model
 +-- Analysis of covariance
 +-- Goodness of fit tests
-|	+-- Chi-squared goodness of fit test
-|	+-- G-test
-|	+-- Kolomogorov-Smirnov test
+|  +-- Chi-squared goodness of fit test
+|  +-- G-test
+|  +-- Kolomogorov-Smirnov test
 +-- Contingency tests
-|	+-- Fisher's exact test
-|	+-- McNamar's test
+|  +-- Fisher's exact test
+|  +-- McNamar's test
 ````
