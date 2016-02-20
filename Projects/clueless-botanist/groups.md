@@ -10,6 +10,7 @@ Leeat
 
 Mian
 Weiwei
+Boris
 
 Stephanie
 Alexandra
@@ -25,8 +26,8 @@ Dan
 
 #Lab 2
 
-Peter
-Joyce
+Peter,
+Joyce,
 Justin
 
 Sean
@@ -37,3 +38,5 @@ Michael
 Casey
 Christopher
 Andria
+
+Diandra

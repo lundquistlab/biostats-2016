@@ -13,13 +13,13 @@ In **Biostatistics 040** we have a list of general strategies for sampling from 
 6. Blind Design
 
 Here are some studies that could use one or more of these sampling strategies.
-    
 
-**Your goal will be to  discuss as a group what strategy should be used in each study and give justififcation for your decision**
+
+**Your goal will be to  discuss as a group what strategy should be used in each study and give justification for your decision**
 
 #Study 1
 
-Dr. Armstrong is interested in studying the effect of different teaching methods on the test scores of his students in Biol 117. He has eight teaching assistants that run lab each with 25 students. While the overall teaching expectations are the same for all TAs, each individual does have their own skills and teaching methods. 
+Dr. Armstrong is interested in studying the effect of different teaching methods on the test scores of his students in Biol 117. He has eight teaching assistants that run lab each with 25 students. While the overall teaching expectations are the same for all TAs, each individual does have their own skills and teaching methods.
 
 #Study 2
 
@@ -39,5 +39,4 @@ A MD wants to test the efficacy of a new anti-depressant developed from a new fl
 
 #Study 6
 
-To investigate the effects of gut parasites on wood frogs, Dr. Hua collected a population of frogs from the Nature Preserve and reared their offspring, which do not have parasites, in the lab. She is interested in comparing the longevity of those newly hatched frogs between the infected and non-infected groups. 
-
+To investigate the effects of gut parasites on wood frogs, Dr. Hua collected a population of frogs from the Nature Preserve and reared their offspring, which do not have parasites, in the lab. She is interested in comparing the longevity of those newly hatched frogs between the infected and non-infected groups.
