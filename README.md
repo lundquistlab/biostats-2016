@@ -13,7 +13,8 @@ This repo will have:
 1. Weekly homeworks
 2. In class worksheets
 3. Extra resources
-4. ...
+4. Group projects
+5. ...
 
 If you are new to GitHub, you should check out this [blog post by Lauren Orsini](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1). However, for this class you only need to know how to download content from the repo.
 
