@@ -7,7 +7,7 @@
 
 "*Setosa* was collected in the high mountains of the Rockie's, which is its entire range."
 
-"*Virginica* was collected from Virginia during spring break in March. It exists all along the East Coast but was not collected in PA or southern NY. *Versicolor* was collected in northern NY later in the summer."
+"*Virginica* was collected from Virginia during spring break in March. It exists all along the East Coast but was not collected in PA or southern NY. *Versicolor*, which does have some range overlap with *Virginica*, was collected in northern NY later in the summer."
 
 **Your job:**
 
