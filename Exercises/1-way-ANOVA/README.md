@@ -8,7 +8,7 @@ We will be working with a modified version of the iris data that you should be v
 
 1. What are the assumptions for the one-way ANOVA? 
 
-2. Run an ANOVA comparing the pedal width of the three iris species using both anova(lm()) and oneway.test().
+2. Run an ANOVA comparing the petal width of the three iris species using both anova(lm()) and oneway.test().
 
 3. What is the interpretation of the results from those two functions?.
 
