@@ -10,4 +10,4 @@ Here I will post the tests from Biostats 2016.
 
 This will count as a homework/quiz
 
-Points: 10
+Points: 20
