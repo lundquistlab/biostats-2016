@@ -32,13 +32,13 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 **Required statistical tests covered in your portfolio:**
 ````
 .
-+-- Parametric variance tests (*Due 2/26/2016*)
++-- Parametric variance tests
 |  +-- One sample t-test
 |  +-- One sample chi-squared
 |  +-- Paired t-test
 |  +-- Two sample t-test
 |  +-- F-test and Levine's test
-+-- Non-parametric variance tests
++-- Non-parametric variance tests (*Due 3/25/2016*)
 |  +-- Sign test
 |  +-- Wilcoxon Signed-Rank test
 |  +-- Wilcoxon Rank-Sum test
@@ -46,6 +46,7 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 +-- Parametric analysis of variance
 |  +-- One-way ANOVA (Do calculations)
 |  +-- Bartlett's Test
+|  +-- Post Hoc Tests (Fisher's LSD, Bonferonni, Tukey HSD) 
 |  +-- Two-way ANOVA (Do calculations)
 |  +-- Nested two-way ANOVA
 +-- Non-parametric analysis of variance
