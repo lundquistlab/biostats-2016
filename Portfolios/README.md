@@ -1,6 +1,8 @@
 #Portfolios
 
-**First Portfolio Section DUE 2/26/2016**
+**Second Portfolio Section DUE 3/25/2016**
+
+**DUE: Non-parametric variance tests and parametric ANOVAs**
 
 The portfolio will be one of the most important things that you will produce in Biol 483N.
 
@@ -42,8 +44,9 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 |  +-- Wilcoxon Rank-Sum test
 |  +-- Mann-Whitney test
 +-- Parametric analysis of variance
-|  +-- One-way ANOVA
-|  +-- Two-way ANOVA
+|  +-- One-way ANOVA (Do calculations)
+|  +-- Bartlett's Test
+|  +-- Two-way ANOVA (Do calculations)
 |  +-- Nested two-way ANOVA
 +-- Non-parametric analysis of variance
 |  +-- Kruskal-Wallis test
