@@ -3,6 +3,7 @@
 Below is a random assortment of some real world data collected from streams around Binghamton, NY (*this data is not provided for external use*). There are a number of numeric and grouping variables included in this data set.
 
 These include:
+
 1. Year collected
 2. Month collected
 3. Stream name
