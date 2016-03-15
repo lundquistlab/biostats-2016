@@ -34,4 +34,9 @@ Xbar
 C1 <- c(-1, 1/5, 1/5, 1/5, 1/5, 1/5)
 fit.contrast(FM, month, C1, conf.int = 0.95)
 
+#I am also interested if April and July are different
+C2 <- c(-1, 0, 0, 1, 0, 0)
+fit.contrast(FM, month, C2, conf.int = 0.95)
 
+#I can also check it using a pairwise.t.test
+pairwise.t.test(salinity, factor(month), p.adj="none", alternative="two.sided")
