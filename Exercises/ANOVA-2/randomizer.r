@@ -1,4 +1,4 @@
-stream <- read.table("streams.txt", h=T)
+stream <- read.table("stream.txt", h=T)
 
 #Multiply data points by a random number
 stream$X_1 <- stream$X_1 * runif(1, 0.01, 1.5)
