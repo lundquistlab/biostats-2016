@@ -1,6 +1,6 @@
 #Portfolios
 
-**Second Portfolio Section DUE 3/25/2016**
+**Second Portfolio Section DUE 4/8/2016**
 
 **DUE: Non-parametric variance tests and parametric ANOVAs**
 
@@ -46,9 +46,9 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 +-- Parametric analysis of variance
 |  +-- One-way ANOVA (Do calculations)
 |  +-- Bartlett's Test
-|  +-- Post Hoc Tests (Fisher's LSD, Bonferonni, Tukey HSD) 
-|  +-- Two-way ANOVA (Do calculations)
-|  +-- Nested two-way ANOVA
+|  +-- Post Hoc Tests (Fisher's LSD, Bonferonni, Tukey HSD)
+|  +-- Two-way ANOVA (Do calculations) - Both Biostats 290 and 300!
+|  +-- Nested two-way ANOVA (Biostats 320)
 +-- Non-parametric analysis of variance
 |  +-- Kruskal-Wallis test
 |  +-- Friedman two-way ANOVA by ranks
