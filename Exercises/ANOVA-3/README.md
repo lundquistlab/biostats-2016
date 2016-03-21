@@ -18,7 +18,7 @@ Use the data from "health_data.csv" to answer the following questions:
 	
 	C. 	Is there a difference between the 
 		stress reduction observed in 
-		medical and physical methods and 
+		medical and physical methods, and 
 		the stress reduction in the 
 		mental method?
 		
@@ -34,16 +34,27 @@ A group of chemistry students are wondering how consistent the concentrations of
 Use the data from drug.txt to answer the following questions:
 
 	A. 	What sort of test would you need to 
-		run to analyze this data?
+		run to analyze these data?
 		
 	B. 	Is there a difference in Vitamin A
-		concentration among the supplements
+		concentration among the supplements?
 	
 	C. Is there a difference between suppliers of each drug?
 	
 	D. 	Which drug(s) have significant discrepancies in concentration
 		between suppliers?
 
+Problem 3:
+
+Six greenhouse benches were set up as blocks. Within each block, one of each of four varieties of house plants was planted. The plant heights (cm) are provided in plants.txt. 
+
+Answer the following questions:
+	
+	A. 	Are the maximum heights among the four varieties different?
+	
+	B. 	Run the nonparametric equivalent (Hint: Fried chicken) to the test 
+		run in part A. Are the results similar?
+	 
 
 
 **Points: 10**
