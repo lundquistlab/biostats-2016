@@ -38,7 +38,7 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 |  +-- Paired t-test
 |  +-- Two sample t-test
 |  +-- F-test and Levine's test
-+-- Non-parametric variance tests (*Due 3/25/2016*)
++-- Non-parametric variance tests (*Due 4/8/2016*)
 |  +-- Sign test
 |  +-- Wilcoxon Signed-Rank test
 |  +-- Wilcoxon Rank-Sum test
