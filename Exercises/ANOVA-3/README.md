@@ -52,7 +52,7 @@ Answer the following questions:
 	
 	A. 	Are the maximum heights among the four varieties different?
 	
-	B. 	Run the nonparametric equivalent (Hint: Fried chicken) to the test 
+	B. 	Run the nonparametric equivalent (Hint: Fried chicken) of the test 
 		run in part A. Are the results similar?
 	 
 
