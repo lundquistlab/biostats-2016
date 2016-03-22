@@ -2,7 +2,7 @@
 
 ANOVAs are critical for the analysis of many types of biological data. However, it is sometimes difficult to determine exactly what type of ANOVA to perform and what sort of *post hoc* tests are appropriate after rejecting H<sub>o</sub>. Below are four problems that you need to solve using ANOVA (or other omnibus test) and post hoc analysis (pairwise comparisons, linear contrasts, etc...). 
 
-Please provide your .r commands, results and interpretations.
+Please provide your results and interpretations, including the type of test you are running. An R script is not required for this assignment.
 
 Problem 1:
 
