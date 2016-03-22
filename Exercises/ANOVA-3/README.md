@@ -1,6 +1,6 @@
 # Week 9 ANOVA exercises
 
-ANOVAs are critical for the analysis of many types of biological data. However, it is sometimes difficult to determine exactly what type of ANOVA to perform and what sort of *post hoc* tests are appropriate after rejecting H<sub>o</sub>. Below are four problems that you need to solve using ANOVA (or other omnibus test) and post hoc analysis (pairwise comparisons, linear contrasts, etc...). 
+ANOVAs are critical for the analysis of many types of biological data. However, it is sometimes difficult to determine exactly what type of ANOVA to perform and what sort of *post hoc* tests are appropriate after rejecting H<sub>o</sub>. Below are three problems that you need to solve using ANOVA (or other omnibus test) and post hoc analysis (pairwise comparisons, linear contrasts, etc...). 
 
 Please provide your results and interpretations, including the type of test you are running. An R script is not required for this assignment.
 
@@ -31,7 +31,7 @@ Problem 2:
 
 A group of chemistry students are wondering how consistent the concentrations of Vitamin A in six different nutrient supplements. They are also interested in the consistency between suppliers of each those supplements. 
 
-Use the data from drug.txt to answer the following questions:
+Use the data from "drug.txt" to answer the following questions:
 
 	A. 	What sort of test would you need to 
 		run to analyze these data?
@@ -46,7 +46,7 @@ Use the data from drug.txt to answer the following questions:
 
 Problem 3:
 
-Six greenhouse benches were set up as blocks. Within each block, one of each of four varieties of house plants was planted. The plant heights (cm) are provided in plants.txt. 
+Six greenhouse benches were set up as blocks. Within each block, one of each of four varieties of house plants was planted. The plant heights (cm) are provided in "plants.txt". 
 
 Answer the following questions:
 	
