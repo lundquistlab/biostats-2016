@@ -41,8 +41,7 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 +-- Non-parametric variance tests (*Due 4/8/2016*)
 |  +-- Sign test
 |  +-- Wilcoxon Signed-Rank test
-|  +-- Wilcoxon Rank-Sum test
-|  +-- Mann-Whitney test
+|  +-- Wilcoxon Rank-Sum test / Mann-Whitney test
 +-- Parametric analysis of variance
 |  +-- One-way ANOVA (Do calculations)
 |  +-- Bartlett's Test
