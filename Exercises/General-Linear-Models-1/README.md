@@ -13,9 +13,9 @@ For each of these questions:
 
 1. Create a linear model and fit the line to a scatter plot of the data.
 2. Run an ANOVA F-test to determine if X provides insight into interpreting Y
-3. Run a t-test for the slop and intercept
+3. Run a t-test for the slope and intercept
 4. Calculate confidence intervals for the regression parameters (easy or hard way)
-5. Predict additional Y values using the predict function and plot them
+5. Predict additional Y values using the ``predict()`` function and plot them
 6. Calculate R<sup>2</sup> for your linear model (easy or hard way)
 7. Answer the question(s)
 
