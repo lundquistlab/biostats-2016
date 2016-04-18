@@ -1,8 +1,8 @@
 #Portfolios
 
-**Second Portfolio Section DUE 4/8/2016**
+**Full Portfolio DUE 5/11/2016 by 11:59 PM** 
 
-**DUE: Non-parametric variance tests and parametric ANOVAs**
+**Everything on the list is due that we get to in lecture. Note: Will remove things that are not due, so pay attention to the list**
 
 The portfolio will be one of the most important things that you will produce in Biol 483N.
 
@@ -38,7 +38,7 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 |  +-- Paired t-test
 |  +-- Two sample t-test
 |  +-- F-test and Levine's test
-+-- Non-parametric variance tests (*Due 4/8/2016*)
++-- Non-parametric variance tests
 |  +-- Sign test
 |  +-- Wilcoxon Signed-Rank test
 |  +-- Wilcoxon Rank-Sum test / Mann-Whitney test
@@ -53,8 +53,8 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 |  +-- Friedman two-way ANOVA by ranks
 |  +-- Cochran's Q test
 +-- Linear regression
-|  +-- Simple linear regression
-|  +-- Multiple regression
+|  +-- Simple linear regression (Do calculations)
+|  +-- Multiple regression (Do calculations)
 |  +-- General linear models
 |  +-- Choosing optimal model
 +-- Analysis of covariance
