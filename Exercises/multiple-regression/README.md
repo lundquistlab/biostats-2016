@@ -19,7 +19,7 @@ Analyze the ZarEX10.1R.txt data using GLM and "dummy" coding and answer the foll
 1. What is a dummy coding/dummy variable?
 2. There are multiple levels to the factor feed, show and briefly explain how R codes the dummy variables
 3. R defaults to doing treatment contrasts for GLM. Perform a treatment contrasts and explain the results in terms of the comparisons being made and the p-values generated. 
-4. Run a cell means contrast. Also exlpain the results in terms of the comparisons being made in that analysis and the p-values generated.
+4. Run a cell means contrast. Also explain the results in terms of the comparisons being made in that analysis and the p-values generated.
 
 Submit answers to these questions to my [email](mailto:mlundqu1@binghamto.edu) 
 
