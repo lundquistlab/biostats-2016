@@ -10,8 +10,6 @@ Use multiple regression to analyze the ZarEX20.1aR.txt dataset and answer the fo
 4. Run the partial t/ F-tests of the single coefficients (you can use the built in R function(s))
 5. For question 4, does order matter? Why or why not?
 
-
-
 You can also generate linear models for nominal independent variables (i.e. factors) much like you can in ANOVA. These are called **Generalized Linear Models** or GLM. 
 
 Analyze the ZarEX10.1R.txt data using GLM and "dummy" coding and answer the following questions:
