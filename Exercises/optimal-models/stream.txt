@@ -1,4 +1,4 @@
-year	month	stream	stream_site	depth	pH	conductance	salinity	flow	nitrate 	phosphorous	season	site_type	stream_order	richness	rock_size	cover
+coll_year	month	stream	stream_site	depth	pH	conductance	salinity	flow	nitrate 	phosphorous	season	site_type	stream_order	richness	rock_size	cover
 2014	5_August	TB	TBD	3.24632069	6.775123739	82.23760167	0.079353023	0.162275382	0.05559598	0.009971524	late	reference	3	6.428108037	131.9556331	2.83355835
 2014	6_September	PT	PTD	2.736427388	6.655210044	284.2802422	0.10580403	0.108183588	0.035004876	0.530485069	late	urban	3	0.756248004	570.7329166	0
 2015	6_September	PT	PTU	3.858192653	7.094893591	136.6633193	0.063482418	NA	0.015911775	0.086438154	late	rural	2	1.512496009	228.5660073	3.020104387

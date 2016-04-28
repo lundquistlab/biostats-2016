@@ -61,8 +61,6 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 +-- Goodness of fit tests
 |  +-- Chi-squared goodness of fit test
 |  +-- G-test
-|  +-- Kolomogorov-Smirnov test
 +-- Contingency tests
-|  +-- Fisher's exact test
 |  +-- McNamar's test
 ````
