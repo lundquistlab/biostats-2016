@@ -57,7 +57,6 @@ In each individual folder, I include everything I need to run the tests (a .r sc
 |  +-- Multiple regression (Do calculations)
 |  +-- General linear models
 |  +-- Choosing optimal model
-+-- Analysis of covariance
 +-- Goodness of fit tests
 |  +-- Chi-squared goodness of fit test
 |  +-- G-test
