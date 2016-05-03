@@ -9,15 +9,5 @@ For our last "lab" activity, we will be practicing &chi;<sup>2</sup> tests and 2
 
 2. A McNemar's test is used when you want to compare paired observations over two categorial classes, i.e. "before" and "after." Use the example data from Zar 24.23 (See Biostats 470) to run a 2x2 and 3x3 case of the McNemar test.
 
-3. Answer the following questions:
-    1. How would you rate the lab experience in Biostats?
-
-    2. What do you think were the strengths and weaknesses of your lab TA?
-
-    3. What was your favorite topic/aspect of the lab?
-
-    4. What do you think could be improved on in lab?
-
-    5. What is your opinion of the GitHub assignment scheme?
 
 [Email](mailto:mlundqu1@binghamton.edu) this to me by the end of class.
