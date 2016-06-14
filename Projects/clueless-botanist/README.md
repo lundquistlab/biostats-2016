@@ -15,6 +15,6 @@ Use the statistical and data visualizing tools that we have gone over in class s
 
 Work as a group to write a 1-2 page report with figures and your conclusions.
 
-**Grade: 20 points**
+**Grade: 50 points**
 
 Send your report to my [email](mailto:mlundqu1@binghamton.edu) by **11:59, 3/4**
