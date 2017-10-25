@@ -30,7 +30,7 @@ To do this:
 
 # Useful links:
 
-[TA Blog](http://www.lundquistecology.com/blog/)
+[TA Blog](http://www.lundquistecology.com/blog.html)
 
 [Biologist's Analytic Toolkit](http://biotoolbox.binghamton.edu)
 
