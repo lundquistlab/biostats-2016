@@ -1,0 +1,1 @@
+	Cheese1	Cheese2	Cheese3	Cheese4Expert1	2	1	2.5	1.5Expert2	2	4	5	2.8Expert3	3	2	4	2Expert4	1	1	4	2Expert5	1	1	2	2Expert6	2	1.5	4	2.5Expert7	2	1	3	2Expert8	1	0.5	4.3	2Expert9	2.3	1.3	4.3	3.3Expert10	3	2.8	4	4

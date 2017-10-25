@@ -4,20 +4,42 @@ The goals of this assignment are for you to:
 
 Explore Bayesian analysis and **answer this example question**.
 
-A student at Binghamton University is interested in knowing how likely it is to pass the final for Biol 117. Specifically, he is interested in if he should spend time studying for that test because he has three others.  
+A student at Binghamton University is interested in knowing how likely it is to pass the final for Biol 117. Specifically, he is interested in if he should spend time studying for that test because he has three others.
 
-Suppose you know that generally, 70% of the students pass the test. You also know that 80% of those who pass studied at least 8 hours for the test. However, 20% of those who do study do not pass.
+Suppose you know that generally, 70% of the students pass the test. You also know that 80% of those who pass studied for the test. However, you also know that 20% of those who do study still do not pass.
+
+```
+|-----------------------------------|
+|       |     |  Pass Exam   |      |
+|-----------------------------------|
+|       |     |   +  |   -   |      |
+|       |---------------------------|
+|       |  +  |  0.8 |  0.2  | 0.62 |
+| Study |-----|---------------------|
+|       |  -  |  0.2 |  0.8  | 0.38 |
+|       |-----|---------------------|
+|       |     |  0.7 |   0.3 |      |
+|-----------------------------------+
 
 
+```
 1. What is the probability that he will pass if he studies?
+
+   **L<sub>study</sub> = 0.90**
 
 2. What is the probability that he will pass if he does not study?
 
+   **L<sub>not study</sub> = 0.36**
+
 3. What is the relative chance of passing between studying and not studying?
+
+   **L<sub>study</sub>/L<sub>not study</sub> = 2.5**
 
 4. Should he study?
 
-Use R to calculate every the P(B|A) you need to answer the question fully. Fill out a truth table and give a brief interpretation of your results (see [Biostatistics 061](http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20pdf/061-2014%20Biostatistics.pdf)). 
+   **Yes/Probably/Most Likely/Sure/...**
+
+Use R to calculate every the P(B|A) you need to answer the question fully. Fill out a truth table and give a brief interpretation of your results (see [Biostatistics 061](http://biotoolbox.binghamton.edu/Biostatistics/2014%20Biostatistics%20Zar/Biostatistics%20Worksheets%20pdf/061-2014%20Biostatistics.pdf)).
 
 **Include your .r script and truth table with your answers in your email.**
 
